@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gb="https://grokbot.dev/ns/feed">
+  <channel>
+    <title>grokbot.dev</title>
+    <link>https://grokbot.dev/</link>
+    <atom:link href="https://grokbot.dev/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Ready-to-use Grok Bot prompts, plugins, collections and news - everything, newest first.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Oct 2026 00:32:55 GMT</lastBuildDate>
+    <item>
+      <title>DC Hub</title>
+      <link>https://grokbot.dev/plugins/dc-hub/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/dc-hub/</guid>
+      <description>Live data center, power, grid and fiber data for site selection, with citations.</description>
+      <pubDate>Mon, 19 Oct 2026 20:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CurlShot</title>
+      <link>https://grokbot.dev/plugins/curlshot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/curlshot/</guid>
+      <description>Give your agent a screenshot API: any public URL as PNG, PDF or scrolling video.</description>
+      <pubDate>Fri, 16 Oct 2026 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>UXKIN</title>
+      <link>https://grokbot.dev/plugins/uxkin/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/uxkin/</guid>
+      <description>Real app screens and user journeys your Grok Bot checks before it designs any UI</description>
+      <pubDate>Thu, 15 Oct 2026 11:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jetpost</title>
+      <link>https://grokbot.dev/plugins/jetpost/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/jetpost/</guid>
+      <description>Tell your agent &quot;make a note.&quot; Your team, and their agents, pick it up from there.</description>
+      <pubDate>Tue, 13 Oct 2026 22:20:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Employed</title>
+      <link>https://grokbot.dev/plugins/employed/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/employed/</guid>
+      <description>Give your Grok Bot live jobs from 5,000 employer career sites, plus your job tracker</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shareout</title>
+      <link>https://grokbot.dev/plugins/shareout/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/shareout/</guid>
+      <description>Share HTML proposals, reports and prototypes as browser links with feedback and revisions</description>
+      <pubDate>Fri, 09 Oct 2026 20:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>BulkTranscripts</title>
+      <link>https://grokbot.dev/plugins/bulktranscripts/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/bulktranscripts/</guid>
+      <description>Let your Grok Bot read whole YouTube channels and playlists as transcripts.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fonino: a real iPhone for your Grok Bot</title>
+      <link>https://grokbot.dev/plugins/fonino/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/fonino/</guid>
+      <description>A real, non-jailbroken iPhone your Grok Bot can tap, type and swipe in, with live takeover</description>
+      <pubDate>Fri, 02 Oct 2026 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RawTree</title>
+      <link>https://grokbot.dev/plugins/rawtree/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/rawtree/</guid>
+      <description>Give your Grok Bot a schema-free analytics database it can write events to and query.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upload-Post</title>
+      <link>https://grokbot.dev/plugins/upload-post/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/upload-post/</guid>
+      <description>Let your agent publish, schedule and analyze posts on 11 social networks.</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatSetter</title>
+      <link>https://grokbot.dev/plugins/whatsetter/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/whatsetter/</guid>
+      <description>Run your WhatsApp AI setter from the agent: inbox, leads, bookings, campaigns</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kampalo</title>
+      <link>https://grokbot.dev/plugins/kampalo/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/kampalo/</guid>
+      <description>Brief synced Google and Meta ads, then pause a weak campaign only after you confirm.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZenSched</title>
+      <link>https://grokbot.dev/plugins/zensched/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/zensched/</guid>
+      <description>Field workforce scheduling over MCP — shifts, GPS check-in, timesheets.</description>
+      <pubDate>Tue, 15 Sep 2026 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BlindOracle (read-only)</title>
+      <link>https://grokbot.dev/plugins/blindoracle-marketplace-kit/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/blindoracle-marketplace-kit/</guid>
+      <description>Check any agent's reputation and verify a settlement proof — free reads, it can't spend.</description>
+      <pubDate>Sat, 12 Sep 2026 17:45:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>CentricMem</title>
+      <link>https://grokbot.dev/plugins/centricmem/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/centricmem/</guid>
+      <description>Hosted librarian so every agent cites the same Markdown cards.</description>
+      <pubDate>Sun, 06 Sep 2026 23:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AnalyticLunch</title>
+      <link>https://grokbot.dev/plugins/analyticlunch/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/analyticlunch/</guid>
+      <description>Give your Grok Bot your site traffic, UTM link builder and weekly competitor intel.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jobkeepr</title>
+      <link>https://grokbot.dev/plugins/jobkeepr/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/jobkeepr/</guid>
+      <description>Give your Grok Bot your field service business: jobs, schedule, estimates, invoices.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prism Network</title>
+      <link>https://grokbot.dev/plugins/prism-network/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/prism-network/</guid>
+      <description>Live GPU capacity, per-second prices, and a public receipt for every run.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>treg.to</title>
+      <link>https://grokbot.dev/plugins/treg-to/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/treg-to/</guid>
+      <description>2,745 external APIs your Grok Bot can call with no provider keys, at the provider's rate</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Team You Didn't Hire</title>
+      <link>https://grokbot.dev/collections/team-you-didnt-hire/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/team-you-didnt-hire/</guid>
+      <description>Five bots doing the jobs a startup used to hire a whole team for.</description>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Herd your whole fleet of Grok bots from one chat</title>
+      <link>https://grokbot.dev/use-cases/herd-your-bots/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/herd-your-bots/</guid>
+      <description>Once you run more than one Grok bot, keeping tabs on all of them is its own job. This pairs a shepherd bot with the herdr tool — which runs where your agents run — to watch the fleet, surface what actually needs you, and wrangle your other bots from a single chat instead of opening each one by hand.</description>
+      <pubDate>Sun, 30 Aug 2026 18:25:03 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/herdrdev/status/2094129284885467399" author_handle="herdrdev" />
+    </item>
+    <item>
+      <title>Screen your X replies for burners and insults</title>
+      <link>https://grokbot.dev/use-cases/reply-guard/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/reply-guard/</guid>
+      <description>Reviews the replies to your posts and splits the signal from the noise: it flags accounts under 100 followers or under a year old, plus anyone slinging insults, so real conversation stays visible and throwaway replies get moderated. Jason Calacanis built it to keep his mentions classy.</description>
+      <pubDate>Sun, 30 Aug 2026 16:12:36 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Jason/status/2094095953812717647" author_handle="Jason" />
+    </item>
+    <item>
+      <title>Award Travel</title>
+      <link>https://grokbot.dev/collections/award-travel/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/award-travel/</guid>
+      <description>Book the trip on points, for the deepest real value.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>One Video, a Week of Content</title>
+      <link>https://grokbot.dev/collections/content-machine/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/content-machine/</guid>
+      <description>Turn one recording into clips, shorts and posts everywhere.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fill the Pipeline</title>
+      <link>https://grokbot.dev/collections/fill-the-pipeline/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/fill-the-pipeline/</guid>
+      <description>From a fresh lead list to the meeting booked.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Founder OS</title>
+      <link>https://grokbot.dev/collections/founder-os/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/founder-os/</guid>
+      <description>Stand up the company, then run it from one desk.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get Found</title>
+      <link>https://grokbot.dev/collections/get-found/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/get-found/</guid>
+      <description>Rank in Google — and get named in the AI answers.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Household HQ</title>
+      <link>https://grokbot.dev/collections/household-hq/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/household-hq/</guid>
+      <description>Run the family: meals, school, home and the thoughtful stuff.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Look After Yourself</title>
+      <link>https://grokbot.dev/collections/look-after-yourself/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/look-after-yourself/</guid>
+      <description>The nudges and coaching to actually take care of you.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Never Overpay Again</title>
+      <link>https://grokbot.dev/collections/never-overpay/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/never-overpay/</guid>
+      <description>Shop smart, pick the right card, claw back what you're owed.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inbox Zero, For Real</title>
+      <link>https://grokbot.dev/collections/reclaim-your-inbox/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/reclaim-your-inbox/</guid>
+      <description>Empty the inbox — and keep it empty.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build a Second Brain</title>
+      <link>https://grokbot.dev/collections/second-brain/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/second-brain/</guid>
+      <description>Research that's sourced, filed, and findable months later.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ship While You Sleep</title>
+      <link>https://grokbot.dev/collections/ship-while-you-sleep/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/ship-while-you-sleep/</guid>
+      <description>Drop an idea at night, review the PR in the morning.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New to Grok Bot? Start Here</title>
+      <link>https://grokbot.dev/collections/start-here/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/start-here/</guid>
+      <description>Set up your first bots — and learn to build your own.</description>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>X for Grok Bot</title>
+      <link>https://grokbot.dev/plugins/x-for-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/x-for-grok-bot/</guid>
+      <description>The official X plugin: search posts, read timelines, pull trends, manage bookmarks.</description>
+      <pubDate>Sun, 30 Aug 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>X Account Management</title>
+      <link>https://grokbot.dev/collections/x-account-management/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/x-account-management/</guid>
+      <description>Six shared Bots to run — and quietly read — your whole X account.</description>
+      <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iMessage for Grok Bot</title>
+      <link>https://grokbot.dev/plugins/imessage/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/imessage/</guid>
+      <description>Read, triage, search, and send iMessages from a local macOS helper.</description>
+      <pubDate>Sat, 29 Aug 2026 21:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostOnce</title>
+      <link>https://grokbot.dev/plugins/postonce/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/postonce/</guid>
+      <description>Connect a Grok bot to the socials you already run and draft posts from chat.</description>
+      <pubDate>Sat, 29 Aug 2026 07:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ContentDrips</title>
+      <link>https://grokbot.dev/plugins/contentdrips/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/contentdrips/</guid>
+      <description>Let your agent design on-brand LinkedIn and Instagram carousels from chat.</description>
+      <pubDate>Sat, 29 Aug 2026 07:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a branded carousel from a single topic</title>
+      <link>https://grokbot.dev/use-cases/topic-to-branded-carousel/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/topic-to-branded-carousel/</guid>
+      <description>Give Grok Bot a topic such as how to price freelance work. With ContentDrips MCP connected, it builds a multi-slide carousel in your saved brand style (or a named template), returns the editor link, and waits for you before any LinkedIn or Instagram publish.</description>
+      <pubDate>Sat, 29 Aug 2026 07:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everything you need to know about Grok Bot templates</title>
+      <link>https://grokbot.dev/news/grok-bot-templates-explained/</link>
+      <guid isPermaLink="true">https://grokbot.dev/news/grok-bot-templates-explained/</guid>
+      <description>A Grok Bot template is a shareable blueprint for a Bot. Open one link and Grok Bot creates a new copy with the original role, skills, routines, and supported integrations. Your chats, logins, and secrets stay private.</description>
+      <pubDate>Sat, 29 Aug 2026 02:00:00 GMT</pubDate>
+      <gb:news kind="announcement" important="true" />
+    </item>
+    <item>
+      <title>BulkPublish</title>
+      <link>https://grokbot.dev/plugins/bulkpublish/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/bulkpublish/</guid>
+      <description>Let your agent schedule and publish social posts across 15 networks.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Run a faceless YouTube channel: source, edit, caption and schedule</title>
+      <link>https://grokbot.dev/use-cases/faceless-youtube-channel-automation/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/faceless-youtube-channel-automation/</guid>
+      <description>A faceless channel is a production line - find raw material, cut a short, add captions, make a thumbnail, upload. RoundtableSpace flagged Grok Bot running the whole line. This is the version with a human gate: the bot does the repetitive work, you approve before anything publishes, on content you have rights to use.</description>
+      <pubDate>Fri, 28 Aug 2026 18:10:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/RoundtableSpace/status/2093303833359265886" author_handle="RoundtableSpace" />
+    </item>
+    <item>
+      <title>A shareable bot that screens every pitch deck against your own criteria</title>
+      <link>https://grokbot.dev/use-cases/pitch-deck-analyzer-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/pitch-deck-analyzer-bot/</guid>
+      <description>Brian Evans gets pitched 5-10 times a week, so he built a Grok Bot that learns exactly what he looks for and scores each deck against it - filtering the misfits before he spends a minute. He built it on Grok Bot's new shareable-templates feature, which strips your data so the workflow can be handed to someone else.</description>
+      <pubDate>Fri, 28 Aug 2026 18:05:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/BrianDEvans/status/2093386515972030780" author_handle="BrianDEvans" />
+    </item>
+    <item>
+      <title>Turn ten years of calendar meetings into a Notion CRM, automatically</title>
+      <link>https://grokbot.dev/use-cases/build-a-crm-from-your-calendar/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/build-a-crm-from-your-calendar/</guid>
+      <description>Gaurav Munjal pointed Grok Bot at ten years of his calendar and told it to build a Notion database of every person he ever met - each with their LinkedIn, what they're doing now, and tags. It ran 2.5 hours straight and logged ~1,000 people from the first three years alone. A back-office job no human ever gets to.</description>
+      <pubDate>Fri, 28 Aug 2026 18:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/gauravmunjal/status/2093366092920144201" author_handle="gauravmunjal" />
+    </item>
+    <item>
+      <title>Sightkick</title>
+      <link>https://grokbot.dev/plugins/sightkick/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/sightkick/</guid>
+      <description>Run SEO end to end: AI-answer visibility, articles, publishing, Search Console proof.</description>
+      <pubDate>Fri, 28 Aug 2026 17:11:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>See what the market is pricing in before the crowd reacts to it</title>
+      <link>https://grokbot.dev/use-cases/market-expectations-desk/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/market-expectations-desk/</guid>
+      <description>Now that Grok Bot reads live prices and option chains, most will ask 'should I buy NVDA'. Alex Prompter uses it as an expectations desk: it reads the ATM straddle to show the market's expected move before earnings and Fed days, contrasts it with the headlines, and names which side has to be wrong. Read-only by design.</description>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/alex_prompter/status/2093289003302764585" author_handle="alex_prompter" />
+    </item>
+    <item>
+      <title>Eight named bots run the whole fund: research, trading, risk and back office</title>
+      <link>https://grokbot.dev/use-cases/build-a-one-person-hedge-fund/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/build-a-one-person-hedge-fund/</guid>
+      <description>RohOnChain's field-report paper argues a fund's headcount moat has collapsed: research desk, trading, and back office map onto eight named bots on one shared cloud computer. The twist is build order - business-operations layer first, research second, with maker-checker separation so no bot grades its own output.</description>
+      <pubDate>Fri, 28 Aug 2026 11:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/RohOnChain/status/2093019378698842564" author_handle="RohOnChain" />
+    </item>
+    <item>
+      <title>Teach a bot one analyst's valuation method, then just feed it tickers</title>
+      <link>https://grokbot.dev/use-cases/stock-valuation-levels-agent/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/stock-valuation-levels-agent/</guid>
+      <description>Money_or_Life_X had Grok Bot study a finance YouTuber's price-target method, pull free data, and learn to assign P/E multiples - a 'valuation levels' agent that outputs a chart for any ticker. Two other investing agents critique its method. Honest about its one human variable: the multiple is the agent's own judgment.</description>
+      <pubDate>Fri, 28 Aug 2026 10:05:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Money_or_Life_X/status/2092905577995526193" author_handle="Money_or_Life_X" />
+    </item>
+    <item>
+      <title>Replace a $50/mo follower analytics tool with your X data archive and a bot</title>
+      <link>https://grokbot.dev/use-cases/replicate-social-analytics-follower-cleanup/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/replicate-social-analytics-follower-cleanup/</guid>
+      <description>kloss_xyz didn't want to pay for social analytics, so he had Grok Bot replicate it from his X data archive. Hand the bot following.js and follower.js and it sorts everyone into mutuals, people you've talked to, inactives and spam - then tags who to cut. You approve every batch; it never unfollows more than 100 a day.</description>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/kloss_xyz/status/2092999741982536085" author_handle="kloss_xyz" />
+    </item>
+    <item>
+      <title>AITuber</title>
+      <link>https://grokbot.dev/plugins/aituber/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/aituber/</guid>
+      <description>Give your agent a video studio: script, voice-over, captions and publishing.</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Be first to know about new Grok Bot features - your bot tracks the team that builds it</title>
+      <link>https://grokbot.dev/use-cases/track-the-grok-bot-team/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/track-the-grok-bot-team/</guid>
+      <description>Ben Lang posted the list of engineers and designers building Grok Bot and said: follow them. The better move: have your bot do it for you. A daily check of all seven profiles, a seen-log so nothing repeats, a signal filter so only feature news gets through - delivered to you, or straight to your Chief of Staff bot.</description>
+      <pubDate>Thu, 27 Aug 2026 16:10:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/benln/status/2092995402953884072" author_handle="benln" />
+    </item>
+    <item>
+      <title>PDF.ai</title>
+      <link>https://grokbot.dev/plugins/pdf-ai/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/pdf-ai/</guid>
+      <description>Turn any PDF into structured data your bot can use - parse, extract, split, one API key.</description>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shape what AI says about you</title>
+      <link>https://grokbot.dev/use-cases/ai-search-lead/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/ai-search-lead/</guid>
+      <description>Reads engine answers and citations, crawls and 404 demand, plus Search Console and GA4 through a connected DevTune project. Drafts the next evidence-ranked page for review and reports what moved after it ships. Nothing publishes without approval.</description>
+      <pubDate>Thu, 27 Aug 2026 07:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>He gave his Grok Bot full bank access and made it his personal CFO</title>
+      <link>https://grokbot.dev/use-cases/personal-cfo-bank-access/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/personal-cfo-bank-access/</guid>
+      <description>Teslaconomics connected everything - personal and business banks, credit cards, Apple Card, X Money - and one question now answers his morning: can I cover what's coming, or am I short? Green/red per bill with the exact shortfall, daily reminders until it goes green, pie charts on demand. Day 1, receipts included.</description>
+      <pubDate>Thu, 27 Aug 2026 07:05:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Teslaconomics/status/2092837438146351407" author_handle="Teslaconomics" />
+    </item>
+    <item>
+      <title>One bot's only job: be the long-term memory of your house</title>
+      <link>https://grokbot.dev/use-cases/house-memory-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/house-memory-bot/</guid>
+      <description>Morgan Linton's idea for a bot no chatbot can be: photograph every appliance sticker, breaker panel, filter size and paint can once, and the bot files it all for years. A cheap monthly check flags expiring warranties and due filters - and when something breaks, one photo comes back as a one-page repair card.</description>
+      <pubDate>Thu, 27 Aug 2026 06:10:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/morganlinton/status/2092714740095271058" author_handle="morganlinton" />
+    </item>
+    <item>
+      <title>Pallyy</title>
+      <link>https://grokbot.dev/plugins/pallyy/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/pallyy/</guid>
+      <description>Let your agent draft, schedule, and publish social posts through Pallyy's REST API.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A 7am daily recap of the YouTube channels you actually follow</title>
+      <link>https://grokbot.dev/use-cases/daily-youtube-summary/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/daily-youtube-summary/</guid>
+      <description>One bot, one routine: it interviews you about your interests, locks in 7-10 favorite channels, then checks them every morning through the TranscriptAPI plugin. New videos in the last 24 hours get summarized from their transcripts into one chat message at 7am - and a seen-log guarantees it never repeats itself.</description>
+      <pubDate>Wed, 26 Aug 2026 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PhoneZero</title>
+      <link>https://grokbot.dev/plugins/phonezero/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/phonezero/</guid>
+      <description>Enable phone to phone tasks in Grok Bot using Grok Voice Agents and Telnyx. Zero infra.</description>
+      <pubDate>Wed, 26 Aug 2026 16:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newsletter detox: the bot audits, you review one page, it unsubscribes</title>
+      <link>https://grokbot.dev/use-cases/newsletter-unsubscribe-audit/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/newsletter-unsubscribe-audit/</guid>
+      <description>A two-phase inbox detox with a human gate. The bot sweeps your email and builds a simple HTML review page of every newsletter you receive, sorted into keep vs certainly-unsubscribe with its reasoning. You decide. Then it works the list slowly in the browser, logging every attempt in a progress file.</description>
+      <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/scheemunai/status/2092591711557947796" author_handle="scheemunai" />
+    </item>
+    <item>
+      <title>Composio</title>
+      <link>https://grokbot.dev/plugins/composio/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/composio/</guid>
+      <description>One connector that gives your Grok Bot 1,000+ app integrations via MCP.</description>
+      <pubDate>Wed, 26 Aug 2026 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The connector hack - one Composio MCP gives your bot 1,000+ tools</title>
+      <link>https://grokbot.dev/use-cases/composio-connector-hack/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/composio-connector-hack/</guid>
+      <description>Corey Ganim's workaround for Grok Bot's thinner connector catalog: connect the Composio connector once, then connect any of Composio's 1,000+ integrations through it - your bot uses all of them via Composio MCP. Unsponsored, in his words the easiest way to reach tools that have no native Cursor connector.</description>
+      <pubDate>Wed, 26 Aug 2026 12:40:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/coreyganim/status/2092559429275447742" author_handle="coreyganim" />
+    </item>
+    <item>
+      <title>Seven bots run his content calendar - he only reviews</title>
+      <link>https://grokbot.dev/use-cases/seven-bot-content-team/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/seven-bot-content-team/</guid>
+      <description>Ridark gave Grok Bot his content calendar instead of a to-do list: seven named bots on one shared machine - discovery, research, writing, visuals, distribution, analytics, and Anchor, the chief of staff he DMs. One group chat per post, hard approval fences, and week one shipped 14 of 25 drafts with his inbox at zero.</description>
+      <pubDate>Wed, 26 Aug 2026 12:20:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ridark_eth/status/2092292504066429381" author_handle="ridark_eth" />
+    </item>
+    <item>
+      <title>Automate your affiliate program with an AI affiliate manager</title>
+      <link>https://grokbot.dev/use-cases/affiliate-program-manager/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/affiliate-program-manager/</guid>
+      <description>An Affonso-powered Grok Bot automates weekly affiliate management: it compares performance, finds growth opportunities and risks, and prepares partner actions. Program changes, payouts, and partner messages still require approval.</description>
+      <pubDate>Wed, 26 Aug 2026 12:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Affonso</title>
+      <link>https://grokbot.dev/plugins/affonso/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/affonso/</guid>
+      <description>Give your Grok Bot affiliate data and approval-gated program operations.</description>
+      <pubDate>Wed, 26 Aug 2026 12:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenny's 'Be Happier' bot - 3 weekly suggestions from your real life</title>
+      <link>https://grokbot.dev/use-cases/be-happier-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/be-happier-bot/</guid>
+      <description>Lenny Rachitsky's favorite new use case is one sentence: a 'Be Happier' bot that analyzes his emails, calendar and Slack and suggests three things per week to be happier. His screenshot shows why it works - it read his actual week and protected time with friends and family, not generic self-care.</description>
+      <pubDate>Wed, 26 Aug 2026 11:40:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/lennysan/status/2092283728877990128" author_handle="lennysan" />
+    </item>
+    <item>
+      <title>Give your Grok Bot a phone number - it makes the calls and reports back</title>
+      <link>https://grokbot.dev/use-cases/give-your-grok-bot-a-phone-number/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/give-your-grok-bot-a-phone-number/</guid>
+      <description>Peter bought a $15 phone number on Bland, gave his Grok Bot the API key, and the bot worked out the rest. Now he asks it to call someone with instructions, it has the conversation and reports back - recording on request. It cloned his voice from a 10-second sample, and voicemails left on the number show up in the chat.</description>
+      <pubDate>Wed, 26 Aug 2026 11:35:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/SPCXTSLA/status/2092356603349815435" author_handle="SPCXTSLA" />
+    </item>
+    <item>
+      <title>Bland</title>
+      <link>https://grokbot.dev/plugins/bland/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/bland/</guid>
+      <description>Give your Grok Bot a real phone number and a voice that makes actual calls.</description>
+      <pubDate>Wed, 26 Aug 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Find customers on X who already said they want to switch</title>
+      <link>https://grokbot.dev/use-cases/find-customers-complaining-about-competitors/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/find-customers-complaining-about-competitors/</guid>
+      <description>Amplemarket founder Luis Batalha's playbook: have your Grok Bot search X for people complaining about your competitors or asking for alternatives, enrich the poster and company via the Amplemarket connector, reach out - then make it a weekly routine. You don't guess who has the problem; they publicly told you.</description>
+      <pubDate>Wed, 26 Aug 2026 09:35:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/luismbat/status/2092250997221433848" author_handle="luismbat" />
+    </item>
+    <item>
+      <title>Amplemarket</title>
+      <link>https://grokbot.dev/plugins/amplemarket/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/amplemarket/</guid>
+      <description>Give your Grok Bot a full sales stack - prospect data, signals, and outreach.</description>
+      <pubDate>Wed, 26 Aug 2026 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Appllama</title>
+      <link>https://grokbot.dev/plugins/appllama/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/appllama/</guid>
+      <description>Let your Grok Bot study 39,000+ screens from the App Store's top-earning apps.</description>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Give your bot specs and a max price - it bids when the bargain appears</title>
+      <link>https://grokbot.dev/use-cases/bargain-hunter-bot-buys-within-budget/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/bargain-hunter-bot-buys-within-budget/</guid>
+      <description>Vox runs two real-money errands on one rule. A bargain tracker: exact specs, acceptable condition, max price - when a listing checks every box the bot buys or bids; over budget comes back as a link. And a haircut booked end to end, paid via Stripe Link. The rule: within range, go ahead; outside it, ask first.</description>
+      <pubDate>Wed, 26 Aug 2026 08:15:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Voxyz_ai/status/2092376252120535477" author_handle="Voxyz_ai" />
+    </item>
+    <item>
+      <title>The exact two-part prompt behind a Chief of Staff that protects your time</title>
+      <link>https://grokbot.dev/use-cases/exact-chief-of-staff-prompt/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/exact-chief-of-staff-prompt/</guid>
+      <description>Corey Ganim's verbatim Chief of Staff build: a bot description that locks three priorities in order, defaults to acting, and never sends or invents a number - plus a first message that wires Gmail/Calendar/Todoist/Notion, builds a Sunday week-plan skill, and hires specialist bots only after the brief is locked.</description>
+      <pubDate>Wed, 26 Aug 2026 07:50:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/coreyganim/status/2092375719292862933" author_handle="coreyganim" />
+    </item>
+    <item>
+      <title>A weekday bot that updates only what you already installed</title>
+      <link>https://grokbot.dev/use-cases/ai-tools-maintainer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/ai-tools-maintainer/</guid>
+      <description>Each weekday morning this Grok Bot inventories real binaries on the PC or Mac it can reach, updates only installed tools on the same channel already used, re-runs post-update hooks, honors a deny list, and stays quiet if nothing changed.</description>
+      <pubDate>Wed, 26 Aug 2026 03:34:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/gheeunit/status/2092455037486137501" author_handle="gheeunit" />
+    </item>
+    <item>
+      <title>OmniSocials</title>
+      <link>https://grokbot.dev/plugins/omnisocials/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/omnisocials/</guid>
+      <description>Give your agent one API to schedule, publish, and analyze posts across 12 platforms.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Search1API</title>
+      <link>https://grokbot.dev/plugins/search1api/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/search1api/</guid>
+      <description>Live web search, news, page reading, and trends for your Grok Bot.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Free month of Grok Bot for Lenny's Newsletter subscribers</title>
+      <link>https://grokbot.dev/news/lennys-newsletter-free-month-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/news/lennys-newsletter-free-month-grok-bot/</guid>
+      <description>Lenny Rachitsky is partnering with SpaceXAI - the first deal of its kind - to give every Lenny's Newsletter annual subscriber a free month of Grok Bot (included in Cursor Pro+). Existing subscribers redeem via Lenny's Product Pass; new subscribers get the link in their welcome email.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:news kind="deal" important="true" external_url="https://www.lennysproductpass.com/" />
+    </item>
+    <item>
+      <title>Harden your email-reading Grok Bot against prompt injection</title>
+      <link>https://grokbot.dev/use-cases/harden-your-email-bot-against-prompt-injection/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/harden-your-email-bot-against-prompt-injection/</guid>
+      <description>Peter's security prompt for any bot that reads and replies to email: treat every part of an email - body, subject, sender, attachments, even hidden white text - as DATA, never instructions. It lists the injection patterns to refuse, flags attempts instead of complying, and gates real actions behind your confirmation.</description>
+      <pubDate>Tue, 25 Aug 2026 19:10:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/aye_pete/status/2092324168037707992" author_handle="aye_pete" />
+    </item>
+    <item>
+      <title>Build a Grok Bot that fills your Amazon cart from your past orders</title>
+      <link>https://grokbot.dev/use-cases/amazon-cart-builder-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/amazon-cart-builder-grok-bot/</guid>
+      <description>Teslaconomics built 'Cart' - a Grok Bot that does his Amazon shopping. It signs into his Amazon, reads Buy Again and past orders, and puts the exact products he already buys into the cart; he just checks out. It works for anything on Amazon, and it never places the order or touches payment - those stay with him.</description>
+      <pubDate>Tue, 25 Aug 2026 11:55:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Teslaconomics/status/2091952899110981916" author_handle="Teslaconomics" />
+    </item>
+    <item>
+      <title>A 'workforce checker' bot that catches agents that quietly quit</title>
+      <link>https://grokbot.dev/use-cases/workforce-checker-for-stuck-bots/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/workforce-checker-for-stuck-bots/</guid>
+      <description>eric zakariasson's fix for bots that quietly stall: a workforce-checker bot. Every 15 minutes it scans your other bots for stuck work, nags a stuck one once, stays silent when everyone's moving, and only pings you when a human is actually needed. One short prompt turns fleet-babysitting into a background routine.</description>
+      <pubDate>Tue, 25 Aug 2026 11:20:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ericzakariasson/status/2092205948505059435" author_handle="ericzakariasson" />
+    </item>
+    <item>
+      <title>Give your Grok Bot reliable YouTube access with the TranscriptAPI plugin</title>
+      <link>https://grokbot.dev/use-cases/give-grok-bot-reliable-youtube-access/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/give-grok-bot-reliable-youtube-access/</guid>
+      <description>@scheemunai's first test for any new agent is YouTube - and browser control burned his entire Grok Bot trial trying to summarize one video (blocked caption API, empty transcript panel). The fix: the TranscriptAPI plugin, which gives the Bot timestamped transcripts, search, channels and playlists in one request.</description>
+      <pubDate>Tue, 25 Aug 2026 11:15:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/scheemunai/status/2092205040429682919" author_handle="scheemunai" />
+    </item>
+    <item>
+      <title>Have your Grok Bot cancel subscriptions for you - workarounds and all</title>
+      <link>https://grokbot.dev/use-cases/cancel-subscriptions-with-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/cancel-subscriptions-with-grok-bot/</guid>
+      <description>Morgan Linton asked his Grok Bot to cancel a service - and it just figured it out. When it couldn't log in, instead of getting stuck it clicked a 'manage plan' link in an email, triggered a one-time sign-in email, and used that to finish the cancellation. He had to ask the bot how it pulled it off.</description>
+      <pubDate>Mon, 24 Aug 2026 22:45:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/morganlinton/status/2092016807943250150" author_handle="morganlinton" />
+    </item>
+    <item>
+      <title>Add a Disruptor bot to your team that disagrees with you on purpose</title>
+      <link>https://grokbot.dev/use-cases/one-bad-grok-bot-devils-advocate/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/one-bad-grok-bot-devils-advocate/</guid>
+      <description>Liam keeps one deliberately difficult Grok Bot around. Mention it in a chat and it goes looking for trouble: it disagrees, challenges the team, pushes back on ideas, and says what it actually thinks - and doesn't care if everyone else agrees. A built-in devil's advocate that kills groupthink and sycophancy.</description>
+      <pubDate>Mon, 24 Aug 2026 20:15:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/liam_fallen/status/2091944229647868192" author_handle="liam_fallen" />
+    </item>
+    <item>
+      <title>Clip a YouTube podcast by timestamp, then let a bot team write the post</title>
+      <link>https://grokbot.dev/use-cases/clip-youtube-podcasts-with-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/clip-youtube-podcasts-with-grok-bot/</guid>
+      <description>KanekoaTheGreat sends his Grok Bot a YouTube link and says 'cut from 16:43 to 18:17' - a few minutes later the exact HD clip is in the chat. His Clipper bot hands it to a Researcher and a Writer bot that pull quotes and draft the caption. No code - he just connected his Google account and asked Grok Bot to clip it.</description>
+      <pubDate>Mon, 24 Aug 2026 19:30:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/KanekoaTheGreat/status/2091968024370897102" author_handle="KanekoaTheGreat" />
+    </item>
+    <item>
+      <title>Cribble</title>
+      <link>https://grokbot.dev/plugins/cribble/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/cribble/</guid>
+      <description>Ranks your Grok (and 47 other AI tools) usage on a worldwide leaderboard.</description>
+      <pubDate>Mon, 24 Aug 2026 06:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TubeAlfred</title>
+      <link>https://grokbot.dev/plugins/tubealfred/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/tubealfred/</guid>
+      <description>Give your Grok Bot read-only access to any public YouTube video, channel, or playlist.</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sequenzy</title>
+      <link>https://grokbot.dev/plugins/sequenzy/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/sequenzy/</guid>
+      <description>Run your email marketing - subscribers, campaigns, sequences - from your Grok Bot.</description>
+      <pubDate>Sun, 23 Aug 2026 22:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Give every repo a VISION.md so your bot triages issues for you</title>
+      <link>https://grokbot.dev/use-cases/vision-md-so-agents-self-triage/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/vision-md-so-agents-self-triage/</guid>
+      <description>Kun Chen owns 24k+-star open-source repos and was drowning in issues and PRs. His fix wasn't more review - it was moving his influence up a level: an explicit VISION.md per repo saying where the project is going, so his Grok Bot triages every incoming issue as vision-aligned or not, and only the aligned ones get built.</description>
+      <pubDate>Sun, 23 Aug 2026 22:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/kunchenguid/status/2091638832307536357" author_handle="kunchenguid" />
+    </item>
+    <item>
+      <title>Fretwork</title>
+      <link>https://grokbot.dev/plugins/fretwork/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/fretwork/</guid>
+      <description>Local-first freelance management - time, invoices, expenses, CRM - for your Grok Bot.</description>
+      <pubDate>Sun, 23 Aug 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Run a one-person business on a Grok Bot agent team</title>
+      <link>https://grokbot.dev/use-cases/run-a-business-with-grok-bot-agent-teams/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/run-a-business-with-grok-bot-agent-teams/</guid>
+      <description>Billy Howell runs a 6,000-subscriber local newsletter on a Grok Bot agent team. His method: one project per account, a Chief of Staff that audits the business and proposes the first three revenue agents, perfect each task by hand before spinning off a dedicated bot, then automate the routine work.</description>
+      <pubDate>Sun, 23 Aug 2026 13:45:00 GMT</pubDate>
+      <gb:primary_source kind="youtube-video" url="https://youtu.be/qQluNEfSVHk" title="Grok Bot: make a 1 person company with agents" channel="Greg Isenberg" timestamp="8:26" start="506" />
+    </item>
+    <item>
+      <title>Connect DeepSeek (or any LLM) to your Grok Bot and route work by cost</title>
+      <link>https://grokbot.dev/use-cases/connect-deepseek-to-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/connect-deepseek-to-grok-bot/</guid>
+      <description>Thomas Heimann's copy-paste directive registers DeepSeek V4 Flash as a callable tool on your Chief of Staff bot (OpenAI-compatible, key stored securely), then gives the bot a routing policy: send ops, API/browser, tool-use and bulk work to the cheap fast model, and reserve native Grok for deep reasoning.</description>
+      <pubDate>Sun, 23 Aug 2026 12:15:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/thomasheimann/status/2090435932520329252" author_handle="thomasheimann" />
+    </item>
+    <item>
+      <title>One prompt that gives your Grok Bot its own email inbox and identity</title>
+      <link>https://grokbot.dev/use-cases/give-your-grok-bot-its-own-email-inbox/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/give-your-grok-bot-its-own-email-inbox/</guid>
+      <description>Adi Singh's AgentMail guide, turned into a single prompt you paste into your Grok Bot. The bot explains why it shouldn't use your personal Gmail, walks you step by step through installing the AgentMail plugin and tells you exactly what to do on your end, then creates its own inbox and proves it works by emailing you.</description>
+      <pubDate>Sun, 23 Aug 2026 12:05:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/adisingh/status/2091295851943780737" author_handle="adisingh" />
+    </item>
+    <item>
+      <title>AgentMail</title>
+      <link>https://grokbot.dev/plugins/agentmail/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/agentmail/</guid>
+      <description>Give your Grok Bot its own email inbox and identity on the internet.</description>
+      <pubDate>Sun, 23 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build a 3-agent team that plans, carts, and cooks your meals</title>
+      <link>https://grokbot.dev/use-cases/food-shopping-agent-team/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/food-shopping-agent-team/</guid>
+      <description>Michael Fenech's exact prompt designs a three-agent team on your Chief of Staff bot: a Meal Organiser plans easy meals for your diet, a Shopper fills your online grocery cart (you do the final payment), and a Cooking agent gives step-by-step instructions. It maps the pipeline for your review first.</description>
+      <pubDate>Sun, 23 Aug 2026 09:15:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Michael_Fenech_/status/2091452896738935246" author_handle="Michael_Fenech_" />
+    </item>
+    <item>
+      <title>Make your Grok Bot think, build, and roast like Elon Musk</title>
+      <link>https://grokbot.dev/use-cases/make-your-grok-bot-elon-musk/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/make-your-grok-bot-elon-musk/</guid>
+      <description>mr fundman's most fun Grok Bot: paste this persona into your Bot's Instructions and it becomes Elon Musk - first-principles, dry-humored, applying 'The Algorithm' (question, delete, simplify, accelerate, automate). It stays in character, fires 10x ideas, and plays the visionary advisor for your agent team.</description>
+      <pubDate>Sun, 23 Aug 2026 08:55:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/mrfundman/status/2088723708521099278" author_handle="mrfundman" />
+    </item>
+    <item>
+      <title>Overwatch: keep your Grok Bot's shared VM clean and backed up</title>
+      <link>https://grokbot.dev/use-cases/overwatch-keep-your-bot-vm-clean-and-backed-up/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/overwatch-keep-your-bot-vm-clean-and-backed-up/</guid>
+      <description>scheemunai's Overwatch prompt turns one Grok Bot into the housekeeper for a shared multi-bot VM: it organizes /workspace, backs the whole tree up to a private git repo on a weekday cadence (never secrets), enforces temp/archive/delete retention, keeps a live bot registry, and files a weekly org review.</description>
+      <pubDate>Sun, 23 Aug 2026 08:10:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/scheemunai/status/2091446628611699121" author_handle="scheemunai" />
+    </item>
+    <item>
+      <title>2Chat</title>
+      <link>https://grokbot.dev/plugins/2chat/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/2chat/</guid>
+      <description>Give your Grok Bot a WhatsApp + SMS phone system for messaging and contacts.</description>
+      <pubDate>Sat, 22 Aug 2026 20:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Run a directory business with a team of Grok Bots</title>
+      <link>https://grokbot.dev/use-cases/agent-run-directory-business/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/agent-run-directory-business/</guid>
+      <description>The Startup Ideas Podcast's playbook for a directory business run by Grok Bots: pick a niche you have taste in, build the site on Astro, set a research agent to write a brand page a day in Markdown, a publisher agent to post it, and once traffic is real, a third agent to gather referral links and chase deals.</description>
+      <pubDate>Sat, 22 Aug 2026 19:40:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/startupideaspod/status/2091238981337858473" author_handle="startupideaspod" />
+    </item>
+    <item>
+      <title>Grade a month of bookmarks into spoken skills</title>
+      <link>https://grokbot.dev/use-cases/grade-bookmarks-into-skills/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grade-bookmarks-into-skills/</guid>
+      <description>Ryan Staley pasted one prompt to make a Grok Bot grade 140 bookmarks from the last 30 days — a one-line thesis, the link, a high/medium/noise grade, and the mechanism to steal — discarding anything he couldn't name in a sentence. He kept a third and turned the keepers into 10 skills with a spoken trigger.</description>
+      <pubDate>Sat, 22 Aug 2026 18:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Ryan_Staley1/status/2091135093112774904" author_handle="Ryan_Staley1" />
+    </item>
+    <item>
+      <title>The Odyssey, storyboarded and shot by one bot</title>
+      <link>https://grokbot.dev/use-cases/odyssey-visuals-grok-imagine/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/odyssey-visuals-grok-imagine/</guid>
+      <description>X Freeze asked a Grok Bot for Odyssey movie visuals and it ran the whole creative pipeline: it researched the story, planned the scenes, characters, costumes, locations and camera angles, wrote every prompt, generated the shots with Grok Imagine, and organized them into a folder.</description>
+      <pubDate>Sat, 22 Aug 2026 18:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/XFreeze/status/2091193462133498299" author_handle="XFreeze" />
+    </item>
+    <item>
+      <title>MarketBetter</title>
+      <link>https://grokbot.dev/plugins/marketbetter/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/marketbetter/</guid>
+      <description>Turn website visits and buyer intent into a daily sales playbook your agent runs.</description>
+      <pubDate>Sat, 22 Aug 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Give the bot its own email, act from a CC</title>
+      <link>https://grokbot.dev/use-cases/bot-with-its-own-email/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/bot-with-its-own-email/</guid>
+      <description>Michael Fenech gave his Grok Bot its own email address (via AgentMail), with a webhook that wakes it on each message. He CCs the bot and puts the instruction on the last line — 'Book Tuesday at 3pm and get back to them' — and it reads the thread, books the calendar, and replies to everyone from its own address.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Michael_Fenech_/status/2091135546089451983" author_handle="Michael_Fenech_" />
+    </item>
+    <item>
+      <title>It closed a $10k sponsorship from my inbox in 4 hours</title>
+      <link>https://grokbot.dev/use-cases/close-inbound-sponsorships/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/close-inbound-sponsorships/</guid>
+      <description>Alex Finn gave a Grok Bot access to his business inbox and told it to answer and negotiate with legit companies. Within four hours it researched market rates and closed its first sponsorship deal on its own — turning the inbox he hates reading into revenue.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/AlexFinn/status/2090939211159650633" author_handle="AlexFinn" />
+    </item>
+    <item>
+      <title>13,425 art prompts, extracted and sorted</title>
+      <link>https://grokbot.dev/use-cases/extract-art-prompts/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/extract-art-prompts/</guid>
+      <description>Julie McCann had a Grok Bot go through 557 chats across all her projects, extract every art prompt, and sort them by subject into one searchable library — 13,425 in total. When it hit context limits it switched to smaller blocks on its own and finished the ~30-hour job.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/JulieZMcCann/status/2091142158283632826" author_handle="JulieZMcCann" />
+    </item>
+    <item>
+      <title>Fifty local businesses that need a new website</title>
+      <link>https://grokbot.dev/use-cases/find-local-website-leads/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/find-local-website-leads/</guid>
+      <description>Ben Nash had spent months getting small, mediocre results asking ChatGPT and Gemini to find local businesses that could use a new website. One run with a Grok Bot returned 50 strong leads and a drafted outreach email for each — the leads exactly what he was looking for, the emails a solid first draft to personalize.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/bennash/status/2091136666542997852" author_handle="bennash" />
+    </item>
+    <item>
+      <title>An Instagram bug report that routes itself to QA</title>
+      <link>https://grokbot.dev/use-cases/instagram-bug-to-pr/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/instagram-bug-to-pr/</guid>
+      <description>Dan Peguine's Grok Bot watches his Instagram inbox. A website-bug complaint got routed to a QA bot in the Ship channel (with his engineer bot 'David'); QA tested the funnel, found nothing, and had a Writer bot reply — and a real bug would have become David's fix and a PR.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/danpeguine/status/2091109796686471339" author_handle="danpeguine" />
+    </item>
+    <item>
+      <title>A bot that flips marketplace deals while you sleep</title>
+      <link>https://grokbot.dev/use-cases/marketplace-flipper/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/marketplace-flipper/</guid>
+      <description>alucardiox ran a Grok Bot on its own cloud machine, logged into a second marketplace account, that flags listings priced 35% under the 30-day median, reads the photos not the title, checks the feed every four minutes, sends one all-cash line, and books the pickup. Nine days: $680 spent, $1,610 back.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/alucardiox/status/2091114193470840969" author_handle="alucardiox" />
+    </item>
+    <item>
+      <title>Four photos to a 3D-printed materials experiment</title>
+      <link>https://grokbot.dev/use-cases/photos-to-3d-printed-materials/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/photos-to-3d-printed-materials/</guid>
+      <description>MIT's Markus Buehler ran a three-bot team that turned four reference photos into transferable design principles, an interactive physics simulator, 47 experiments, a scientific report, and two parts sliced and printed on a Bambu H2D — the whole loop overnight.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ProfBuehlerMIT/status/2091108225806454802" author_handle="ProfBuehlerMIT" />
+    </item>
+    <item>
+      <title>Teach your bot a chore from a screen recording</title>
+      <link>https://grokbot.dev/use-cases/teach-a-chore-by-recording/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/teach-a-chore-by-recording/</guid>
+      <description>Dillon Loomis recorded his screen with narration while sorting a week of desktop files, and his Chief of Staff learned not just what he did but how and why — it compressed the oversized video itself to watch it, answered a question he'd planted mid-recording, and coached him on part two.</description>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/DillonLoomis/status/2091133785106686153" author_handle="DillonLoomis" />
+    </item>
+    <item>
+      <title>From beginner to dangerously good at Grok Bot</title>
+      <link>https://grokbot.dev/use-cases/dangerously-good-at-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/dangerously-good-at-grok-bot/</guid>
+      <description>Robin Delta's beginner-to-pro Grok Bot guide: the install decisions that make a bot a worker not another chat window, a five-part task brief, the brief→observe→correct→schedule→deliver loop, and 21 bot builds worth stealing.</description>
+      <pubDate>Sat, 22 Aug 2026 15:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/heyrobinai/status/2090732576637952348" author_handle="heyrobinai" />
+    </item>
+    <item>
+      <title>One bot, one prompt — it hired its own team</title>
+      <link>https://grokbot.dev/use-cases/one-prompt-agent-team/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/one-prompt-agent-team/</guid>
+      <description>Paste one prompt into a single Grok Bot, Atlas the chief of staff. It interviews you, writes its own operating manual, then specs and launches four teammates — each on its own cloud computer, with a review gate before anything sends.</description>
+      <pubDate>Sat, 22 Aug 2026 14:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/nykdotdev/status/2091068926235144607" author_handle="nykdotdev" />
+    </item>
+    <item>
+      <title>Gojiberry AI</title>
+      <link>https://grokbot.dev/plugins/gojiberry/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/gojiberry/</guid>
+      <description>Find warm B2B leads, manage outreach campaigns, and work your inbox from the agent</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MediaFast</title>
+      <link>https://grokbot.dev/plugins/mediafast/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/mediafast/</guid>
+      <description>Let your agent run your Reddit marketing without getting banned.</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mentions.so</title>
+      <link>https://grokbot.dev/plugins/mentions-so/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/mentions-so/</guid>
+      <description>Track how your brand shows up in ChatGPT, Perplexity, Grok and other AI answers.</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiiny Host</title>
+      <link>https://grokbot.dev/plugins/tiiny-host/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/tiiny-host/</guid>
+      <description>Let your agent deploy a static site or file to a live URL in seconds.</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zernio</title>
+      <link>https://grokbot.dev/plugins/zernio/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/zernio/</guid>
+      <description>A developer-first API and MCP for scheduling and analyzing social posts everywhere.</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A research desk that studies markets while you sleep</title>
+      <link>https://grokbot.dev/use-cases/ai-research-desk/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/ai-research-desk/</guid>
+      <description>Roan's article on turning Grok Bot into a self-improving AI hedge-fund research desk: an army of agents that study the markets around the clock, grade their own past calls to improve, and hand you a decision-ready brief — a desk that runs while you sleep. It researches and proposes, never trades.</description>
+      <pubDate>Fri, 21 Aug 2026 21:30:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/RohOnChain/status/2090443377556996209" author_handle="RohOnChain" />
+    </item>
+    <item>
+      <title>The masterclass that makes Grok Bot click</title>
+      <link>https://grokbot.dev/use-cases/grok-bot-masterclass/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grok-bot-masterclass/</guid>
+      <description>Avi Chawla's Grok Bot Masterclass — a popular, end-to-end guide to understanding, setting up, and getting real work out of Grok Bot. It covers what a Bot actually is, how the shared computer works underneath, how Grok Bot compares to Hermes Agent, and how to put it to work.</description>
+      <pubDate>Fri, 21 Aug 2026 21:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/_avichawla/status/2089657097244024858" author_handle="_avichawla" />
+    </item>
+    <item>
+      <title>Run a whole newsletter business while you sleep</title>
+      <link>https://grokbot.dev/use-cases/solo-newsletter-business/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/solo-newsletter-business/</guid>
+      <description>Greg Isenberg's thread on his friend Billy: a non-technical solo founder runs an entire newsletter business on a team of Grok Bot agents — research, drafting, editing, scheduling and growth handled by the agents, so one person operates what used to need a small team.</description>
+      <pubDate>Fri, 21 Aug 2026 20:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/gregisenberg/status/2090901863814017300" author_handle="gregisenberg" />
+    </item>
+    <item>
+      <title>Run daily GTM and dev on collaborating agents</title>
+      <link>https://grokbot.dev/use-cases/role-based-agent-team/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/role-based-agent-team/</guid>
+      <description>Chris Maconi on how Hechura runs on Grok Bot: a team of role-based agents — a Head of Sales and a Head of Product Marketing running the daily GTM motion, plus agents collaborating on daily development work — so the company's day-to-day is operated by agents that specialize and coordinate.</description>
+      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/chrismaconi/status/2090805113249996956" author_handle="chrismaconi" />
+    </item>
+    <item>
+      <title>A company with no employees, in ten minutes</title>
+      <link>https://grokbot.dev/use-cases/team-in-10-minutes/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/team-in-10-minutes/</guid>
+      <description>darkzodchi's guide to standing up a whole Grok Bot team in under 10 minutes: create one bot called Chief of Staff as your single entry point — its description field is the entire config, no code. It coordinates the rest, so you talk to one bot and a team does the work.</description>
+      <pubDate>Fri, 21 Aug 2026 12:31:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/zodchiii/status/2090778823050592662" author_handle="zodchiii" />
+    </item>
+    <item>
+      <title>Your whole marketing team, open-sourced</title>
+      <link>https://grokbot.dev/use-cases/marketing-os/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/marketing-os/</guid>
+      <description>Vlad Dubchak's team (Maxfusion) open-sourced their marketing department as one skill — Marketing OS. Fourteen modules cover audits scored 0-100, an 18-tactic hook engine, graded copy, ad diagnosis, GEO, email, social, launches and positioning. Hand Grok Bot the repo link and it's ready in minutes.</description>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/vladdubchak_x/status/2090770900241297844" author_handle="vladdubchak_x" />
+    </item>
+    <item>
+      <title>Turn your messy machine into a real agent team</title>
+      <link>https://grokbot.dev/use-cases/mine-my-machine-into-a-team/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/mine-my-machine-into-a-team/</guid>
+      <description>Avid's chief-of-staff prompt: it mines everything you've done on your machine — configs, recurring tasks, repeated prompts, the corrections you keep giving — and turns it into a real agent team with role files, skills, a verified run and a handbook, all written to files.</description>
+      <pubDate>Fri, 21 Aug 2026 09:44:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Av1dlive/status/2090736683503468914" author_handle="Av1dlive" />
+    </item>
+    <item>
+      <title>Ask where the deal stalled, get dates and links</title>
+      <link>https://grokbot.dev/use-cases/account-expert/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/account-expert/</guid>
+      <description>Krista Letz’s SpaceXAI GTM write-up describes a Customer Expert: one agent per strategic account that watches Slack, Gmail, Gong, and Granola, answers from running context, and flags feature requests plus support tickets. Same article as her weekly GTM operator.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AdKit</title>
+      <link>https://grokbot.dev/plugins/adkit/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/adkit/</guid>
+      <description>Let your agent draft and run Meta, Google and TikTok ads.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your old sales calls become the next ranking post</title>
+      <link>https://grokbot.dev/use-cases/aeo-content-autopilot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/aeo-content-autopilot/</guid>
+      <description>Eric Osiu, Grok Botting on Starlink, described an AEO/SEO bot: ingest top content (sales calls, customer calls, podcasts, YouTube), combine ClickFlow / GA4 / Ahrefs / GSC, and draft into the CMS on autopilot. Listed as an agent to build, with a real stack, not a one-word role.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ericosiu/status/2089523616824357179" author_handle="ericosiu" />
+    </item>
+    <item>
+      <title>48 hours alone with a Mac and my X account</title>
+      <link>https://grokbot.dev/use-cases/always-on-x-presence/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/always-on-x-presence/</guid>
+      <description>Daniel gave a bot a full macOS machine plus Gmail and an X account. It ran for two days posting and joining group chats. 353 likes / 86K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/Daniel_Farinax/status/2088462885295186237" author_handle="Daniel_Farinax" />
+    </item>
+    <item>
+      <title>Text an errand from the couch, approve the cart</title>
+      <link>https://grokbot.dev/use-cases/amazon-tasks-via-telegram/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/amazon-tasks-via-telegram/</guid>
+      <description>Same tweet: Amazon tasks with a Telegram hookup so he can tap the bot from his phone.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>An LED strip on my desk scrolls the SPCX price</title>
+      <link>https://grokbot.dev/use-cases/arduino-live-ticker/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/arduino-live-ticker/</guid>
+      <description>Dan connected Grok Bot to his Arduino and turned the LED display into a live scrolling SPCX stock ticker with a line graph plus SpaceX headlines. Video in the post. 350 likes / 149.8K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/KettlebellDan/status/2089387837204693202" author_handle="KettlebellDan" />
+    </item>
+    <item>
+      <title>A draft in my voice that flags its own weak claims</title>
+      <link>https://grokbot.dev/use-cases/article-newsletter-writer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/article-newsletter-writer/</guid>
+      <description>Farzad’s Grok Bot team list is mostly names; the job to copy is Writey — article/newsletter writer. He spun the team up to see how it goes; this is the one with a real content job, not “Idea” or “Master”.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/farzyness/status/2087340859138224540" author_handle="farzyness" />
+    </item>
+    <item>
+      <title>Five inboxes, six Slacks, silence unless it needs me</title>
+      <link>https://grokbot.dev/use-cases/attention-inbox-email-slack/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/attention-inbox-email-slack/</guid>
+      <description>Same Yu-kai setup: the bot informs him of any message from five email addresses and six Slack servers that requires his attention, and keeps him organized. Ping only what needs him.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paper trades only, until you arm it yourself</title>
+      <link>https://grokbot.dev/use-cases/autonomous-trading-agent/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/autonomous-trading-agent/</guid>
+      <description>RitOnchain posted a Stanford researcher’s write-up: an autonomous trading agent built entirely with Grok Bots. Screenshot of the agent stack. Bookmark-it-before-it’s-lost energy — research/paper first, not a hot-tip bot.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/RitOnchain/status/2090455054876864748" author_handle="RitOnchain" />
+    </item>
+    <item>
+      <title>Three first-class seats to Japan for 60K points</title>
+      <link>https://grokbot.dev/use-cases/award-tickets-japan/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/award-tickets-japan/</guid>
+      <description>Same non-coder run: he asked Grok Bot to find first-class award tickets to Japan. With permission it logged into his airline accounts and found three first-class Japan tickets for 60K points. He stopped it because the dates were not firm — it would have booked.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The school inbox, split into a checklist per kid</title>
+      <link>https://grokbot.dev/use-cases/back-to-school-mental-load/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/back-to-school-mental-load/</guid>
+      <description>Stella used Grok Bot on her back-to-school emails and to-dos for multiple kids, plus other household jobs it handled independently that week. 787 likes / 1.9M views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/startupstella/status/2090450591688360033" author_handle="startupstella" />
+    </item>
+    <item>
+      <title>Bannerbear</title>
+      <link>https://grokbot.dev/plugins/bannerbear/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/bannerbear/</guid>
+      <description>Give your agent an API to auto-generate branded images and videos.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The one bot whose only job is chasing the others</title>
+      <link>https://grokbot.dev/use-cases/bot-team-manager/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/bot-team-manager/</guid>
+      <description>Peter Yang's setup tutorial starts with a bot-manager / advisor that coordinates the rest of the crew (YouTube researcher, X scout, and others). 1.5K likes / 8.9M views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/petergyang/status/2089401696946634801" author_handle="petergyang" />
+    </item>
+    <item>
+      <title>Breakcold</title>
+      <link>https://grokbot.dev/plugins/breakcold/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/breakcold/</guid>
+      <description>Let your agent run your CRM across email, LinkedIn and WhatsApp.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>$300 of your own money, sitting with the state</title>
+      <link>https://grokbot.dev/use-cases/ca-unclaimed-funds/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/ca-unclaimed-funds/</guid>
+      <description>Royce’s 24-hour Grok Bot receipts start with $300 in unclaimed funds from the state of California. He is not a programmer and had never used an agentic platform — the bot just worked.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/royce_james/status/2090617019708408140" author_handle="royce_james" />
+    </item>
+    <item>
+      <title>Double-bookings arrive with a fix already drafted</title>
+      <link>https://grokbot.dev/use-cases/calendar-conflict-fixer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/calendar-conflict-fixer/</guid>
+      <description>Same Matthew Berman tweet: the bot handled calendar conflict scheduling. A reconstructed Grok Bot use case drawn from a high-engagement X post.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Follow-ups built from the notes, not the pleasantries</title>
+      <link>https://grokbot.dev/use-cases/call-follow-up-drafter/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/call-follow-up-drafter/</guid>
+      <description>In the same GTM article, Krista automates follow-up drafts from Granola or Gong notes after external calls. Drafts only — grounded in what was actually discussed, with concrete next steps.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Five reasons they left, five things to ship this week</title>
+      <link>https://grokbot.dev/use-cases/churn-exit-feedback/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/churn-exit-feedback/</guid>
+      <description>After the win-back emails, Liam's bot analysed overnight why people left and turned that into a 5-step plan. Same tweet as the win-back campaign — this is the research half of the job.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The win-back bot that paid for its own subscription</title>
+      <link>https://grokbot.dev/use-cases/churn-winback/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/churn-winback/</guid>
+      <description>Liam gave Grok Bot one job: win back churned customers. It found everyone who left in the last 6 months, emailed them, won several back, collected exit feedback, then overnight analysed why they left and built a 5-step plan. The bot covered its own subscription cost. 3.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/liam_fallen/status/2090355235751379002" author_handle="liam_fallen" />
+    </item>
+    <item>
+      <title>One chat that knows the business better than I do</title>
+      <link>https://grokbot.dev/use-cases/company-brain-cos/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/company-brain-cos/</guid>
+      <description>A non-developer connected Slack, email, meeting notes, Notion, and Stripe so one Grok Bot chat knows the business better than he does. 1.8K likes / 705K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/DavidCarbutt_/status/2090603356649562522" author_handle="DavidCarbutt_" />
+    </item>
+    <item>
+      <title>One post, four surfaces, canonical never dropped</title>
+      <link>https://grokbot.dev/use-cases/content-pipeline/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/content-pipeline/</guid>
+      <description>After the first-look video, Debbie set up a content pipeline: write with her add-content skill, publish on debbie.codes, syndicate to Dev.to with a canonical URL, then draft LinkedIn and X. She called it the start of the workflow, not a toy list.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>$50 a month gone, with cancel screenshots to prove it</title>
+      <link>https://grokbot.dev/use-cases/cut-monthly-subs/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/cut-monthly-subs/</guid>
+      <description>Royce’s bot helped cut $50 in monthly subscriptions in the first 24 hours — one of the line items that made Grok Bot earn its keep for a non-programmer.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stalled deals get a next move drafted every day</title>
+      <link>https://grokbot.dev/use-cases/deal-desk/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/deal-desk/</guid>
+      <description>Same Eric Osiu post: a deal-desk bot whose job is to move the ball on stalled, lost, and lookalike deals — every day, not a weekly pipeline poem.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The bot that audits the bots you already built</title>
+      <link>https://grokbot.dev/use-cases/debs-chief-of-staff/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/debs-chief-of-staff/</guid>
+      <description>Debbie O’Brien’s CoS tweet is the prompt: look at me, look at the bots I already created, tell me what to change, how to manage the team, and what else would make me productive. The screenshot is the answer she got back.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/debs_obrien/status/2087832375526920381" author_handle="debs_obrien" />
+    </item>
+    <item>
+      <title>Distribb</title>
+      <link>https://grokbot.dev/plugins/distribb/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/distribb/</guid>
+      <description>Let your agent do SEO — keywords, articles and backlinks.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your vehicle renewal, filled out on the real DMV site</title>
+      <link>https://grokbot.dev/use-cases/dmv-errand/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/dmv-errand/</guid>
+      <description>Same tweet: he had it handle DMV registration — the boring civic errand agents are actually good at.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>An inbox that triages itself every morning</title>
+      <link>https://grokbot.dev/use-cases/email-triage-partner/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/email-triage-partner/</guid>
+      <description>A dedicated bot that runs a daily three-stage inbox triage: it archives what you never need to see, summarizes low-attention mail, and does full-context triage on the rest — reading prior history, cross-checking HubSpot and Drive, and drafting replies in your voice.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="youtube-video" url="https://youtu.be/5CSXUsljJ_E" title="11 INSANE Use Cases for Grok Bot" channel="Matthew Berman" timestamp="0:32" start="32" />
+    </item>
+    <item>
+      <title>The weekly GTM loop a real operator actually runs</title>
+      <link>https://grokbot.dev/use-cases/enterprise-gtm-workflows/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/enterprise-gtm-workflows/</guid>
+      <description>Krista Letz (GTM) published the actual enterprise go-to-market workflows she runs on Grok Bot — not a toy demo. 3.3K likes / 1.5M views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/kristaletz/status/2089103618121314689" author_handle="kristaletz" />
+    </item>
+    <item>
+      <title>Dump a messy ask, get plain-language results back</title>
+      <link>https://grokbot.dev/use-cases/firstmate-front-door/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/firstmate-front-door/</guid>
+      <description>Kun Chen’s Firstmate setup is a single Grok Bot you talk to for everything. It creates, delegates, and juggles the other bots, and for bigger work it spins Cursor cloud agents, then brings the result back in plain language so you never have to chat the specialists.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/kunchenguid/status/2089792928092963234" author_handle="kunchenguid" />
+    </item>
+    <item>
+      <title>A dispatch desk texting 100+ drivers in a few hours</title>
+      <link>https://grokbot.dev/use-cases/freight-dispatch-tms/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/freight-dispatch-tms/</guid>
+      <description>A supply-chain CEO with limited product knowledge stood up a dispatch bot in a few hours: it tracked hundreds of loads, texted 100+ drivers, booked loads, requested proofs of delivery, and uploaded them to the TMS. He is on the $300/month plan.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/John__Ferguson/status/2090185259791053100" author_handle="John__Ferguson" />
+    </item>
+    <item>
+      <title>Game assets that match the last approved style</title>
+      <link>https://grokbot.dev/use-cases/game-art-png-pipeline/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/game-art-png-pipeline/</guid>
+      <description>A game developer had Grok Bot drive his custom art-gen webpage to generate game art assets and prep them as transparent PNGs in a consistent style. 992 likes / 375.8K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/DannyLimanseta/status/2087228218797617404" author_handle="DannyLimanseta" />
+    </item>
+    <item>
+      <title>90,000 emails triaged, banks and legal untouched</title>
+      <link>https://grokbot.dev/use-cases/gmail-mass-purge/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/gmail-mass-purge/</guid>
+      <description>Mike P let Grok Bot go through 90,000 emails across two Gmail accounts and delete the junk. Follow-up screenshots in the thread. 1.2K likes / 7.9M views; Elon amplified it.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/mikepat711/status/2089879632929554498" author_handle="mikepat711" />
+    </item>
+    <item>
+      <title>Get interrogated until your plan is actually specific</title>
+      <link>https://grokbot.dev/use-cases/grill-me-interview/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grill-me-interview/</guid>
+      <description>Nate Herk’s week-of-lessons article starts with a job he actually runs: a Grill Me skill that relentlessly interviews him about the business, goals, and plans until the bots share context. He uses it before quarterly planning or a new project — not a four-bot staffing listicle.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/nateherk/status/2089917020087210160" author_handle="nateherk" />
+    </item>
+    <item>
+      <title>It argued with Restream support and got an offer</title>
+      <link>https://grokbot.dev/use-cases/grinder-subscription-killer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grinder-subscription-killer/</guid>
+      <description>The second bot is Grinder. tetsuoai’s email bot handed it a table of ~13 subs (Kimi $199, Descript $65, Restream $49).</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The cart that never forgets the no-olives rule</title>
+      <link>https://grokbot.dev/use-cases/grocery-autopilot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grocery-autopilot/</guid>
+      <description>Rhys’s benchmark for agents is automated grocery ordering. Grok Bot was the first to do it well: a dedicated groceries chat that remembers preferences, a browser signed into Amazon and Costco, scheduled orders, and calendar updates for what to cook — cheaper and more granular than HelloFresh.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/RhysSullivan/status/2089338930009374994" author_handle="RhysSullivan" />
+    </item>
+    <item>
+      <title>A bot that hires its own child bots to ship PRs</title>
+      <link>https://grokbot.dev/use-cases/grok-bot-cto/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grok-bot-cto/</guid>
+      <description>Ray Fernando handed Grok Bot the GitHub repo and told it to run the show: spin up cloud agents off his machine, follow the PRs, hire child bots (PRs, Convex backend, auth) that talk to each other while he reads view-only.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/RayFernando1337/status/2090588423350616494" author_handle="RayFernando1337" />
+    </item>
+    <item>
+      <title>Hundreds of PRs in a day, each closed with proof</title>
+      <link>https://grokbot.dev/use-cases/grok-ship-factory/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/grok-ship-factory/</guid>
+      <description>Kun rabbit-holed into Grok Ship — a software factory inside Grok Bot. He said yesterday alone, hundreds of issues and PRs across his repos got done by it. Captain the ship; it ships.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/kunchenguid/status/2090463366762676732" author_handle="kunchenguid" />
+    </item>
+    <item>
+      <title>The docs update themselves the moment a PR merges</title>
+      <link>https://grokbot.dev/use-cases/help-center-from-prs/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/help-center-from-prs/</guid>
+      <description>Damon’s Intercom + GitHub bot watches every merged PR, decides whether a help-center article needs updating, then drafts and publishes it. 82 likes / 11.4K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/damonchen/status/2090319001813676471" author_handle="damonchen" />
+    </item>
+    <item>
+      <title>An hourly brief that says nothing when nothing changed</title>
+      <link>https://grokbot.dev/use-cases/hourly-political-brief/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/hourly-political-brief/</guid>
+      <description>From the same Gmail-connected setup, he created standing agents, including an hourly political update on his work topics and a rule to always check with him on key decisions. No posting. Cite sources. Stay quiet if nothing new.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Every sponsor email scored before you open it</title>
+      <link>https://grokbot.dev/use-cases/inbox-classifier/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/inbox-classifier/</guid>
+      <description>A standing classifier that labels mail so it is sortable later and scores every inbound sponsorship email — spammy ones auto-archive, the rest become a lead-scoring queue. Classify and sync are two separate steps; your own decisions are never overwritten.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="youtube-video" url="https://youtu.be/5CSXUsljJ_E" title="11 INSANE Use Cases for Grok Bot" channel="Matthew Berman" timestamp="4:09" start="249" />
+    </item>
+    <item>
+      <title>6,000 emails gone and 40 lists unsubscribed</title>
+      <link>https://grokbot.dev/use-cases/inbox-delete-unsub/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/inbox-delete-unsub/</guid>
+      <description>Same Royce tweet: the bot cleaned the inbox — 6,000 deletions and 40+ unsubscribes so far — as part of earning its keep in under 24 hours.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A daily declutter capped at ten items you approve</title>
+      <link>https://grokbot.dev/use-cases/inbox-marie-kondo/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/inbox-marie-kondo/</guid>
+      <description>Peter Yang’s five-bot tutorial includes a digital Marie Kondo that audits Gmail, Google Drive, and paid subscriptions, then proposes a cleanup plan. It only unsubscribes, deletes, renames, or cancels after he approves each action. Same tweet as the advisor / YouTube / X-scout crew.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Find the spend first, let another bot go kill it</title>
+      <link>https://grokbot.dev/use-cases/inbox-receipt-sorter/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/inbox-receipt-sorter/</guid>
+      <description>tetsuoai set up two bots so Grok Bot would pay for itself. The first has Gmail and keeps the inbox sorted so it knows where receipts and billing mail live — the feed for the subscription killer sitting next to it.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/tetsuoai/status/2090282440577388572" author_handle="tetsuoai" />
+    </item>
+    <item>
+      <title>Twice-daily triage that reports its own unread count</title>
+      <link>https://grokbot.dev/use-cases/inbox-zero-operator/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/inbox-zero-operator/</guid>
+      <description>Matthew Berman used Grok Bot for inbox zero (plus calendar, DMV, Amazon — split out). 509 likes / 41K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/MatthewBerman/status/2090510856950038587" author_handle="MatthewBerman" />
+    </item>
+    <item>
+      <title>It noticed who I was ignoring and booked the call</title>
+      <link>https://grokbot.dev/use-cases/jesse-cos-briefing/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/jesse-cos-briefing/</guid>
+      <description>Jesse’s Chief of Staff reads Gmail, Calendar, Slack/Discord, and sends a 5am summary with fires. Unlike his old script, he can ask it to do something after: it noticed he was ignoring Nate Berkopec, opened SavvyCal, and found a time in both timezones.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A CFO report that leaves runway blank if it can’t tell</title>
+      <link>https://grokbot.dev/use-cases/jesse-saas-cfo/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/jesse-saas-cfo/</guid>
+      <description>Same Jesse thread: a CFO bot on Stripe, Xero/QuickBooks, and Gmail. Weekly spend scan for things he missed, a COGS audit, a monthly CFO report. He told people to get concrete, not theatrical — connect the three systems and look.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reply by text, and it works the helpdesk for you</title>
+      <link>https://grokbot.dev/use-cases/jesse-support-autopilot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/jesse-support-autopilot/</guid>
+      <description>Jesse Hanley’s thread is not a one-liner dump: he already runs a support bot against Bento Chat / helpdesk. It sweeps a few times a day, summarises what is assigned or escalated, and he texts back what to do — then it hits the admin MCP. “This is what I’ve done and it’s fantastic.”</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/jessethanley/status/2087799804126761304" author_handle="jessethanley" />
+    </item>
+    <item>
+      <title>150,000 junk emails, deleted after one dry run</title>
+      <link>https://grokbot.dev/use-cases/junk-purge-150k/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/junk-purge-150k/</guid>
+      <description>Yu-kai Chou used Grok Bot to clean up 150,000 junk emails and unsubscribe from senders he never reads. Same tweet as the attention watch on five addresses and six Slack workspaces. This is Yu-kai’s 150k, not the separate 90k two-account purge.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/yukaichou/status/2090288085125013553" author_handle="yukaichou" />
+    </item>
+    <item>
+      <title>Support replies already waiting when you sit down</title>
+      <link>https://grokbot.dev/use-cases/lenny-support-replies/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/lenny-support-replies/</guid>
+      <description>Lenny’s same early-access note: auto-replying to support emails, which he said saves him hours. Drafts in his voice; he stays on the send button.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A voice note becomes a live LinkedIn post</title>
+      <link>https://grokbot.dev/use-cases/linkedin-poster/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/linkedin-poster/</guid>
+      <description>Debbie created a LinkedIn bot, signed in on the bot’s computer (it never sees the password), let it learn her existing posts, dumped a messy voice note, and told it to post. It posted. Receipt, not a draft-only demo.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>120 days of marketing mail, unsubscribed in one run</title>
+      <link>https://grokbot.dev/use-cases/mass-unsubscribe/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/mass-unsubscribe/</guid>
+      <description>Todd had Grok Bot unsubscribe him from 120 days of marketing mail. Same tweet also audited paid subscriptions. 2.1K likes / 422K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/toddsaunders/status/2089896096298627248" author_handle="toddsaunders" />
+    </item>
+    <item>
+      <title>A dense optimizer paper as a 4-minute animation</title>
+      <link>https://grokbot.dev/use-cases/math-explainer-video/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/math-explainer-video/</guid>
+      <description>He asked Grok Bot to generate a 4:22 animated video explaining rank, spectral power, and optimization vs Adam/Muon/Aurora. Video attached. 377 likes / 1.7M views (Elon quote-tweet did 2.1M).</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/yunta_tsai/status/2090484253071151424" author_handle="yunta_tsai" />
+    </item>
+    <item>
+      <title>Tomorrow’s meetings, one phone-readable page each</title>
+      <link>https://grokbot.dev/use-cases/meeting-prep-brief/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/meeting-prep-brief/</guid>
+      <description>Krista’s daily meeting-prep routine pulls Salesforce, Gmail, Slack, Granola, and Gong into a short, skimmable brief she can read on her phone. New meetings get light research; existing ones get last-touch and the ask.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Every meeting split into your promises and theirs</title>
+      <link>https://grokbot.dev/use-cases/meeting-summary-splitter/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/meeting-summary-splitter/</guid>
+      <description>Polls your notetaker for newly recorded meetings, ingests the transcript, and writes a summary plus action items — specifically separating what you committed to from what the other party committed to you, delivered into Grok Bot, Slack, or Telegram.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="youtube-video" url="https://youtu.be/5CSXUsljJ_E" title="11 INSANE Use Cases for Grok Bot" channel="Matthew Berman" timestamp="13:50" start="830" />
+    </item>
+    <item>
+      <title>Five merchants that quietly never sent the refund</title>
+      <link>https://grokbot.dev/use-cases/merchant-refund-hunter/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/merchant-refund-hunter/</guid>
+      <description>Darian told Grok Bot to pay its own fee: it scanned email for lost money and emailed five merchants that never refunded his returns — already net-positive vs the subscription. 136 likes / 110.5K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/darian314/status/2089381004524093752" author_handle="darian314" />
+    </item>
+    <item>
+      <title>One thread in, and the right bot picks it up</title>
+      <link>https://grokbot.dev/use-cases/nate-cos-front-door/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/nate-cos-front-door/</guid>
+      <description>Nate’s second run job: Klaus is the only bot he talks to. Before doing work, Klaus checks whether another Grok Bot owns it, delegates, and brings the result back to the main thread. Specialists stay narrow; he does not want a four-bot org chart to babysit.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eight bots, an org chart, and no task list</title>
+      <link>https://grokbot.dev/use-cases/org-chart-bot-company/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/org-chart-bot-company/</guid>
+      <description>Ridark gave Grok Bot an org chart instead of tasks. Eight bots running the company; he shared the full design. 1.6K likes / 409K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ridark_eth/status/2090138832511324179" author_handle="ridark_eth" />
+    </item>
+    <item>
+      <title>Wake up to the CPA spike already diagnosed</title>
+      <link>https://grokbot.dev/use-cases/overnight-media-buyer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/overnight-media-buyer/</guid>
+      <description>A media buyer paid Cursor Ultra $200 vs ~$100 for Codex/Claude and gave Grok Bot one job: be my media buyer. It connected ad accounts, spreadsheets, analytics, and campaign context.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/nwtseira/status/2090689291236282371" author_handle="nwtseira" />
+    </item>
+    <item>
+      <title>The $2k-a-month marketing bottleneck a bot took over</title>
+      <link>https://grokbot.dev/use-cases/phoenix-plumbing-content-planner/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/phoenix-plumbing-content-planner/</guid>
+      <description>Jon ONeill (HouseHackerJon) hired a Grok Bot named Mary as marketing manager for his Phoenix plumbing company.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/HouseHackerJon/status/2088305236003926468" author_handle="HouseHackerJon" />
+    </item>
+    <item>
+      <title>Two prompts from a phone: site, domain, redirects</title>
+      <link>https://grokbot.dev/use-cases/phone-site-and-domain/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/phone-site-and-domain/</guid>
+      <description>Wayne Sutton installed Convex and Cloudflare plugins, built a demo site (front and backend), bought the domain, and set up Cloudflare redirect rules — all in two prompts from his phone (tryground.dev). 377 likes / 566K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/waynesutton/status/2088416215203295346" author_handle="waynesutton" />
+    </item>
+    <item>
+      <title>It read the tests, found the bug gone, and closed it</title>
+      <link>https://grokbot.dev/use-cases/playwright-issue-closer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/playwright-issue-closer/</guid>
+      <description>Debbie spun up a coding bot on debs-obrien/playwright-movies-app. It checked issue 29, found the tests already used waitForURL with no hard waits, asked if it should close, then closed it with a note after GitHub was connected — she clicked through to GitHub to confirm.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ten minutes per work order, booked across five systems</title>
+      <link>https://grokbot.dev/use-cases/plumbing-work-order-intake/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/plumbing-work-order-intake/</guid>
+      <description>Jon ONeill (HouseHackerJon), a plumbing-company owner, spent about four hours on a Grok Bot free trial after a week of ~80% Claude work.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/HouseHackerJon/status/2087635639701573962" author_handle="HouseHackerJon" />
+    </item>
+    <item>
+      <title>Guest briefs with three threads and a first question</title>
+      <link>https://grokbot.dev/use-cases/podcast-guest-briefer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/podcast-guest-briefer/</guid>
+      <description>Lenny Rachitsky got early access and listed real jobs that made his life better — including “really good” briefs for upcoming podcast guests. Same tweet as his support auto-replies.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/lennysan/status/2087241423792087518" author_handle="lennysan" />
+    </item>
+    <item>
+      <title>Built in 15 seconds, better than the paid tool</title>
+      <link>https://grokbot.dev/use-cases/podcast-summarizer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/podcast-summarizer/</guid>
+      <description>Gavin Baker built a podcast summarizer in about 15 seconds inside Grok Bot that beat the tool he was already paying for. Said his personal AI usage jumped ~100x. 5.7K likes / 5.2M views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/GavinSBaker/status/2089379355692527813" author_handle="GavinSBaker" />
+    </item>
+    <item>
+      <title>Post Bridge</title>
+      <link>https://grokbot.dev/plugins/post-bridge/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/post-bridge/</guid>
+      <description>Give your agent one API to post to 10+ social platforms.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postiz</title>
+      <link>https://grokbot.dev/plugins/postiz/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/postiz/</guid>
+      <description>Let your agent schedule and post across 30+ social platforms.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mow the lawn from 50 miles away</title>
+      <link>https://grokbot.dev/use-cases/remote-lawn-mower/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/remote-lawn-mower/</guid>
+      <description>Sawyer set up Grok Bot to remotely control his autonomous lawn mower, 50 miles from home. Two-minute setup. Video. 3.6K likes / 269K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/SawyerMerritt/status/2090179852171174211" author_handle="SawyerMerritt" />
+    </item>
+    <item>
+      <title>Research You Can Trust</title>
+      <link>https://grokbot.dev/collections/research-you-can-trust/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/research-you-can-trust/</guid>
+      <description>Three research Bots that find the signal and show their receipts.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Revid.ai</title>
+      <link>https://grokbot.dev/plugins/revid-ai/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/revid-ai/</guid>
+      <description>Let your agent script, render and publish AI videos.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>One bot built the bridge to my robot vacuum</title>
+      <link>https://grokbot.dev/use-cases/robot-vacuum-from-chat/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/robot-vacuum-from-chat/</guid>
+      <description>Yun-Ta Tsai had his 'Chief Engineer' bot build a feature so he can text his Matic robot vacuum from Grok Bot. Video/thread. 2.7K likes / 1.8M views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/yunta_tsai/status/2089223114416898288" author_handle="yunta_tsai" />
+    </item>
+    <item>
+      <title>Roof measured, proposal staged, change orders signed</title>
+      <link>https://grokbot.dev/use-cases/roofing-lead-to-proposal/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/roofing-lead-to-proposal/</guid>
+      <description>Same two-day roofing run: it pulled roof measurements for a new inbound lead, built a full proposal/estimate with the contract staged pending his approval, then filled out, drafted, and emailed two change orders via e-signature.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Through the city permit form, captcha and all</title>
+      <link>https://grokbot.dev/use-cases/roofing-permit-and-inspection/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/roofing-permit-and-inspection/</guid>
+      <description>A roofing contractor spent two days with Grok Bot on live jobs. Among the runs: it filled out and pulled an online roofing permit, then filled out and booked a roof inspection via an online form that had a captcha. Same thread as the proposal and sub/COI work.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/pricefoulger/status/2090444744853766643" author_handle="pricefoulger" />
+    </item>
+    <item>
+      <title>It caught the insurance gap before the job started</title>
+      <link>https://grokbot.dev/use-cases/roofing-sub-coi-and-po/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/roofing-sub-coi-and-po/</guid>
+      <description>Same contractor run: it found a discrepancy in subcontractor insurance certificates and drafted/sent email to their brokers; wrote a work order for a sub from a customer contract plus a materials list; filled out a credit application for a new supplier and emailed the right person.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScreenshotOne</title>
+      <link>https://grokbot.dev/plugins/screenshotone/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/screenshotone/</guid>
+      <description>Give your agent a screenshot API for any URL or HTML.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Record the shame video or X stays locked</title>
+      <link>https://grokbot.dev/use-cases/social-shame-extension/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/social-shame-extension/</guid>
+      <description>Alex Lieberman (businessbarista) one-shotted a Chrome extension with Grok Bot: when he hits X or LinkedIn, it bricks the screen until he records himself saying “I’m being a bad, bad boy.” Best Grok Bot use case he had, with video.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/businessbarista/status/2090493546730074582" author_handle="businessbarista" />
+    </item>
+    <item>
+      <title>A forgotten $150 Southwest credit, found in Gmail</title>
+      <link>https://grokbot.dev/use-cases/southwest-flight-credit/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/southwest-flight-credit/</guid>
+      <description>Same 24-hour run: Royce’s bot found a $150 Southwest flight credit he thought he had misplaced. Receipt, not a generic “travel agent” prompt.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Book flights where wifi outranks price</title>
+      <link>https://grokbot.dev/use-cases/starlink-flight-finder/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/starlink-flight-finder/</guid>
+      <description>Ben Lang collected internal Grok Bot use cases; the one to copy is his: find/book flights biased toward Starlink access. Peer one-liners (contractors, recipes, film scans) skipped — this is the job with a clear preference.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/benln/status/2087929147406299313" author_handle="benln" />
+    </item>
+    <item>
+      <title>StayingAPI</title>
+      <link>https://grokbot.dev/plugins/stayingapi/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/stayingapi/</guid>
+      <description>Agent access to booking sites — availability and price compare.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Every subscription sorted into keep, cancel, or ask me</title>
+      <link>https://grokbot.dev/use-cases/subscription-cancellation-audit/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/subscription-cancellation-audit/</guid>
+      <description>Same Todd Saunders tweet: after the unsubscribes, the bot audited all subscriptions and recommended cancellations. One tweet, two jobs.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SuperX</title>
+      <link>https://grokbot.dev/plugins/superx/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/superx/</guid>
+      <description>Give your agent your X analytics and a 50M-post idea library.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>In-policy refunds issued straight through Stripe</title>
+      <link>https://grokbot.dev/use-cases/support-stripe-refunds/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/support-stripe-refunds/</guid>
+      <description>Gergely Orosz hooked Grok Bot to customer support email and the Stripe API so routine refunds run as an agentic workflow. 764 likes / 366K views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/GergelyOrosz/status/2090085668768694562" author_handle="GergelyOrosz" />
+    </item>
+    <item>
+      <title>One ticket, a root-caused PR, and a reply by morning</title>
+      <link>https://grokbot.dev/use-cases/support-ticket-fixer/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/support-ticket-fixer/</guid>
+      <description>Wilson (euboid) built the loop after asking whether Grok Bot could debug tickets, open a PR, and draft a reply. Incoming ticket → agent reads Fern docs, codebase, Axiom logs → bug gets RCA + PR + Linear, feature request hits the board, customer reply is drafted in his voice.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/euboid/status/2089291320271482895" author_handle="euboid" />
+    </item>
+    <item>
+      <title>The tax return, assembled from 40,000 emails</title>
+      <link>https://grokbot.dev/use-cases/taxes-from-gmail/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/taxes-from-gmail/</guid>
+      <description>A non-coder connected Gmail (~40,000 emails) and asked Grok Bot to do his taxes. It found the documents in mail and assembled the return. Same tweet as the Japan award-ticket hunt and the hourly political brief — he is not a programmer.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/congressdj/status/2090093942079447451" author_handle="congressdj" />
+    </item>
+    <item>
+      <title>When the group chat agrees, the tee time is booked</title>
+      <link>https://grokbot.dev/use-cases/tee-time-from-group-chat/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/tee-time-from-group-chat/</guid>
+      <description>Shane Mac spent a month trying to make agents useful in groups. Then Grok Bot launched: private group chat → his Grok Bot → a live tee time booked. Screen recording. That was the TestFlight.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ShaneMac/status/2090773688643629228" author_handle="ShaneMac" />
+    </item>
+    <item>
+      <title>Run your whole bot fleet from a Telegram thread</title>
+      <link>https://grokbot.dev/use-cases/telegram-inbox-bridge/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/telegram-inbox-bridge/</guid>
+      <description>Sets up an inbound Telegram bridge so you can talk to your Grok Bot from anywhere, the way an OpenClaw Telegram webhook works — using your own BotFather bot, with every real-world failure (tunnels, webhook 409s, typing timeouts) already solved inside the prompt.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="youtube-video" url="https://youtu.be/5CSXUsljJ_E" title="11 INSANE Use Cases for Grok Bot" channel="Matthew Berman" timestamp="19:50" start="1190" />
+    </item>
+    <item>
+      <title>TranscriptAPI</title>
+      <link>https://grokbot.dev/plugins/transcriptapi/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/transcriptapi/</guid>
+      <description>Give your agents accurate transcripts from any audio or video.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The booking email lands, the fare hunt begins</title>
+      <link>https://grokbot.dev/use-cases/trip-concierge/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/trip-concierge/</guid>
+      <description>The fifth bot in Peter’s tutorial is a personal concierge that saves money on trips. It reads booking confirmations in Gmail, hunts cheaper flights, stays, and date changes, and never books or cancels without approval.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>380GB flagged, and it still deletes nothing</title>
+      <link>https://grokbot.dev/use-cases/weekly-disk-cleanup/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/weekly-disk-cleanup/</guid>
+      <description>Exploits the fact that Grok Bot is a cloud agent that also has access to your machine: it scans every file weekly, finds deletion candidates, and sorts them into low, medium and high risk — with one hard rule, do not delete anything, categorize by risk.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="youtube-video" url="https://youtu.be/5CSXUsljJ_E" title="11 INSANE Use Cases for Grok Bot" channel="Matthew Berman" timestamp="18:22" start="1102" />
+    </item>
+    <item>
+      <title>The entire X loop, from research to posting time</title>
+      <link>https://grokbot.dev/use-cases/x-content-engine/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/x-content-engine/</guid>
+      <description>Scotty documented how he automated X end to end with Grok Bot: research, design, copy, analytics, and timing. 1.4K likes / 4.5M views.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:primary_source kind="x-post" url="https://x.com/ScottyBeamIO/status/2090174525468033116" author_handle="ScottyBeamIO" />
+    </item>
+    <item>
+      <title>Catch the angle traveling before you write</title>
+      <link>https://grokbot.dev/use-cases/x-viral-tweet-scout/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/x-viral-tweet-scout/</guid>
+      <description>Another of Peter's bots watches X for tweets that are breaking out, so he can see which angles travel before he writes.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Videos at 3x their channel median, mined for format</title>
+      <link>https://grokbot.dev/use-cases/youtube-outlier-researcher/</link>
+      <guid isPermaLink="true">https://grokbot.dev/use-cases/youtube-outlier-researcher/</guid>
+      <description>One of Peter's five bots is a YouTube outlier researcher — it hunts videos that outperform the channel's baseline so you can learn the format, not copy the topic blindly.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZillAPI</title>
+      <link>https://grokbot.dev/plugins/zillapi/</link>
+      <guid isPermaLink="true">https://grokbot.dev/plugins/zillapi/</guid>
+      <description>Give your agents fast, structured data on demand.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok Ship + Firstmate</title>
+      <link>https://grokbot.dev/collections/grok-ship-firstmate/</link>
+      <guid isPermaLink="true">https://grokbot.dev/collections/grok-ship-firstmate/</guid>
+      <description>Firstmate at the helm, Grok Ship as the software factory.</description>
+      <pubDate>Thu, 20 Aug 2026 22:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

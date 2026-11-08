@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gb="https://grokbot.dev/ns/feed">
+  <channel>
+    <title>grokbot.dev - news</title>
+    <link>https://grokbot.dev/</link>
+    <atom:link href="https://grokbot.dev/news/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Releases, deals, opportunities and platform updates for Grok Bot users.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Oct 2026 00:32:54 GMT</lastBuildDate>
+    <item>
+      <title>Everything you need to know about Grok Bot templates</title>
+      <link>https://grokbot.dev/news/grok-bot-templates-explained/</link>
+      <guid isPermaLink="true">https://grokbot.dev/news/grok-bot-templates-explained/</guid>
+      <description>A Grok Bot template is a shareable blueprint for a Bot. Open one link and Grok Bot creates a new copy with the original role, skills, routines, and supported integrations. Your chats, logins, and secrets stay private.</description>
+      <pubDate>Sat, 29 Aug 2026 02:00:00 GMT</pubDate>
+      <gb:news kind="announcement" important="true" />
+    </item>
+    <item>
+      <title>Free month of Grok Bot for Lenny's Newsletter subscribers</title>
+      <link>https://grokbot.dev/news/lennys-newsletter-free-month-grok-bot/</link>
+      <guid isPermaLink="true">https://grokbot.dev/news/lennys-newsletter-free-month-grok-bot/</guid>
+      <description>Lenny Rachitsky is partnering with SpaceXAI - the first deal of its kind - to give every Lenny's Newsletter annual subscriber a free month of Grok Bot (included in Cursor Pro+). Existing subscribers redeem via Lenny's Product Pass; new subscribers get the link in their welcome email.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <gb:news kind="deal" important="true" external_url="https://www.lennysproductpass.com/" />
+    </item>
+  </channel>
+</rss>

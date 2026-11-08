@@ -1,0 +1,108 @@
+# grokbot.dev
+
+> Open-source directory of ready-to-use Grok Bot prompts, plugins, collections, and news.
+> Browse it, or point your own Grok Bot at the JSON API below and it pulls new
+> entries on your schedule.
+
+## Start here
+- [Agent contract](https://grokbot.dev/agent/): copy-paste instructions for a Grok Bot to connect and sync
+- [Feed JSON](https://grokbot.dev/api/v1/feed.json): RECOMMENDED - the complete lean list (plugins, use cases, collections, and news), newest first. News items have type "news" plus kind, important, and external_url.
+- [Templates JSON](https://grokbot.dev/api/v1/templates.json): Shareable Bots - Grok Bot templates people shared on X. Each carries share_url, the "Add to Grok Bot" install link, plus tags and the sharer credit. Full item at /api/v1/templates/<slug>.json.
+- [News JSON](https://grokbot.dev/api/v1/news.json): releases, deals, updates, and announcements. Full item at /api/v1/news/<slug>.json.
+- [Status JSON](https://grokbot.dev/api/v1/status.json): API version, capabilities, notices, deprecations, changelog. Poll it to learn if the API changed; v1 is additive-only and every response carries a schema_revision.
+- [Per-entry detail](https://grokbot.dev/api/v1/use-cases/<slug>.json): full record for one entry (also /api/v1/plugins/<slug>.json)
+- [Latest JSON](https://grokbot.dev/api/v1/latest.json): 50 newest, full records
+- [RSS](https://grokbot.dev/rss.xml)
+
+## Plugins
+- [DC Hub](https://grokbot.dev/plugins/dc-hub/): Live data center, power, grid and fiber data for site selection, with citations.
+- [CurlShot](https://grokbot.dev/plugins/curlshot/): Give your agent a screenshot API: any public URL as PNG, PDF or scrolling video.
+- [UXKIN](https://grokbot.dev/plugins/uxkin/): Real app screens and user journeys your Grok Bot checks before it designs any UI
+- [Jetpost](https://grokbot.dev/plugins/jetpost/): Tell your agent "make a note." Your team, and their agents, pick it up from there.
+- [Employed](https://grokbot.dev/plugins/employed/): Give your Grok Bot live jobs from 5,000 employer career sites, plus your job tracker
+- [Shareout](https://grokbot.dev/plugins/shareout/): Share HTML proposals, reports and prototypes as browser links with feedback and revisions
+- [BulkTranscripts](https://grokbot.dev/plugins/bulktranscripts/): Let your Grok Bot read whole YouTube channels and playlists as transcripts.
+- [Fonino: a real iPhone for your Grok Bot](https://grokbot.dev/plugins/fonino/): A real, non-jailbroken iPhone your Grok Bot can tap, type and swipe in, with live takeover
+- [RawTree](https://grokbot.dev/plugins/rawtree/): Give your Grok Bot a schema-free analytics database it can write events to and query.
+- [Upload-Post](https://grokbot.dev/plugins/upload-post/): Let your agent publish, schedule and analyze posts on 11 social networks.
+- [WhatSetter](https://grokbot.dev/plugins/whatsetter/): Run your WhatsApp AI setter from the agent: inbox, leads, bookings, campaigns
+- [Kampalo](https://grokbot.dev/plugins/kampalo/): Brief synced Google and Meta ads, then pause a weak campaign only after you confirm.
+- [BlindOracle (read-only)](https://grokbot.dev/plugins/blindoracle-marketplace-kit/): Check any agent's reputation and verify a settlement proof — free reads, it can't spend.
+- [ZenSched](https://grokbot.dev/plugins/zensched/): Field workforce scheduling over MCP — shifts, GPS check-in, timesheets.
+- [CentricMem](https://grokbot.dev/plugins/centricmem/): Hosted librarian so every agent cites the same Markdown cards.
+- [AnalyticLunch](https://grokbot.dev/plugins/analyticlunch/): Give your Grok Bot your site traffic, UTM link builder and weekly competitor intel.
+- [Jobkeepr](https://grokbot.dev/plugins/jobkeepr/): Give your Grok Bot your field service business: jobs, schedule, estimates, invoices.
+- [Gojiberry AI](https://grokbot.dev/plugins/gojiberry/): Find warm B2B leads, manage outreach campaigns, and work your inbox from the agent
+- [Prism Network](https://grokbot.dev/plugins/prism-network/): Live GPU capacity, per-second prices, and a public receipt for every run.
+- [treg.to](https://grokbot.dev/plugins/treg-to/): 2,745 external APIs your Grok Bot can call with no provider keys, at the provider's rate
+
+## Use cases
+- [undefined](https://grokbot.dev/use-cases/herd-your-bots/): undefined
+- [undefined](https://grokbot.dev/use-cases/reply-guard/): undefined
+- [undefined](https://grokbot.dev/use-cases/topic-to-branded-carousel/): undefined
+- [Studio · Faceless YouTube Channel](https://grokbot.dev/use-cases/faceless-youtube-channel-automation/): undefined
+- [Screener · Pitch Deck Analyzer](https://grokbot.dev/use-cases/pitch-deck-analyzer-bot/): undefined
+- [Rolodex · Calendar to CRM](https://grokbot.dev/use-cases/build-a-crm-from-your-calendar/): undefined
+- [Expectations Desk · Market Pricing](https://grokbot.dev/use-cases/market-expectations-desk/): undefined
+- [Fund Desk · One-Person Hedge Fund](https://grokbot.dev/use-cases/build-a-one-person-hedge-fund/): undefined
+- [Levels · Stock Valuation Agent](https://grokbot.dev/use-cases/stock-valuation-levels-agent/): undefined
+- [Pruner · Follower Cleanup](https://grokbot.dev/use-cases/replicate-social-analytics-follower-cleanup/): undefined
+- [Radar · Grok Bot Team Tracker](https://grokbot.dev/use-cases/track-the-grok-bot-team/): undefined
+- [AI Search Lead · AEO](https://grokbot.dev/use-cases/ai-search-lead/): undefined
+- [Ledger · Personal CFO](https://grokbot.dev/use-cases/personal-cfo-bank-access/): undefined
+- [Hearth · House Memory](https://grokbot.dev/use-cases/house-memory-bot/): undefined
+- [Recap · Daily YouTube Summary](https://grokbot.dev/use-cases/daily-youtube-summary/): undefined
+- [Detox · Newsletter Unsubscriber](https://grokbot.dev/use-cases/newsletter-unsubscribe-audit/): undefined
+- [undefined](https://grokbot.dev/use-cases/affiliate-program-manager/): undefined
+- [Connector Hub · Composio Bridge](https://grokbot.dev/use-cases/composio-connector-hack/): undefined
+- [Anchor · Creator Org Chart](https://grokbot.dev/use-cases/seven-bot-content-team/): undefined
+- [Be Happier · Weekly Wellbeing Coach](https://grokbot.dev/use-cases/be-happier-bot/): undefined
+
+## Shareable bots
+- [Collaboration Bot](https://grokbot.dev/marketplace/collaboration-bot/): Lets two owners' bot teams work one shared project through a common repository (shared by @realMattAbrams, install: https://x.ai/bot/SVz86tYbkiggizWQ_9vca)
+- [Body of Evidence](https://grokbot.dev/marketplace/body-of-evidence/): Reads your lab panels and prescriptions and gives you a straight second opinion (shared by @Drew42, install: https://x.ai/bot/yi-DUpczI7Gvzc2oGDesm)
+- [Promo Studio](https://grokbot.dev/marketplace/promo-studio/): Cuts your app or site into short vertical promos with hooks to test (shared by @iamjeevanvj, install: https://x.ai/bot/ybXMrluMLTr7EU0ohttgX)
+- [MCP Expert](https://grokbot.dev/marketplace/mcp-expert/): Reviews and grades your MCP server against the live spec, then plans polite live tests (shared by @MikeBillettJr, install: https://x.ai/bot/7xSkMMmBQoQJmyuXTSYhx)
+- [Allergy-Friendly Eats](https://grokbot.dev/marketplace/allergy-friendly-eats/): Remembers your food allergies, then finds restaurant orders and meals that avoid them (shared by @dalegandy, install: https://x.ai/bot/uQhDO7G-zeHut15X_KHbe)
+- [Jane](https://grokbot.dev/marketplace/jane/): Runs a nightly tutoring session for your grade-schooler, tuned to how yesterday went (shared by @KentLangley, install: https://x.ai/bot/vZYguWcn-Sy20b1XHNM_V)
+- [X Monitor](https://grokbot.dev/marketplace/x-monitor/): Audits who replies to an account, bins commenters by tone, and flags the hostile ones (shared by @BoKuangyi, install: https://x.ai/bot/37ckm2zchL3Gr57l8uxNl)
+- [Fraud Scout](https://grokbot.dev/marketplace/fraud-scout/): Cross-references free federal health records to surface possible care-fraud leads (shared by @EzekielB6516, install: https://x.ai/bot/JHSAxXQxijbB6PeopDHXh)
+- [Desk for LINE](https://grokbot.dev/marketplace/desk-for-line/): Front desk for a LINE business account: drafts every reply, sends only on your OK (shared by @kevin_ai_cp, install: https://x.ai/bot/rcz99db1XPeP3Ldmc_887)
+- [墨灵 Moling](https://grokbot.dev/marketplace/moling/): Chinese long-form ghostwriter that learns your voice and recuts one draft for six channels (shared by @LZJ5460, install: https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0)
+- [Sponsor Scout](https://grokbot.dev/marketplace/sponsor-scout/): Finds brands already backing creators like you, then drafts the pitch for you to send (shared by @MichaelHeckert, install: https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6)
+- [Undercut](https://grokbot.dev/marketplace/undercut/): Shows the promo rates newcomers get nearby, then scripts the call that lowers your bill (shared by @MichaelHeckert, install: https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB)
+- [Security](https://grokbot.dev/marketplace/security/): Audits your repos, domains, mail and servers, then hands you a ranked fix list (shared by @PerWendelboe, install: https://x.ai/bot/-qkf41F4R1MtZRetyUrxW)
+- [Script This Routine](https://grokbot.dev/marketplace/script-this-routine/): Finds bot routines that could be cheap scripts, and builds the ones you approve (shared by @Kevin_Logan, install: https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP)
+- [X Bookmark Demos](https://grokbot.dev/marketplace/x-bookmark-demos/): Mines your saved posts for promising tools, then installs and live-tests the approved ones (shared by @JaimeBubblehead, install: https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5)
+- [Gig Scout](https://grokbot.dev/marketplace/gig-scout/): Three vetted, open paid opportunities in your niche, delivered each weekday morning (shared by @yulikay, install: https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1)
+- [Genealogy](https://grokbot.dev/marketplace/genealogy/): Proves each line of your family tree with cited primary records (shared by @coustain, install: https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF)
+- [Meal & Savings Planner](https://grokbot.dev/marketplace/meal-savings-planner/): Weekly dinners fitted to your family's diets and budget, with the grocery total tracked (shared by @Mrxmalcolm, install: https://x.ai/bot/CiREEoV-9rjUaatxtiXFf)
+- [Explainer Studio](https://grokbot.dev/marketplace/explainer-studio/): Turns a prompt, a recording, or a PDF into a narrated animated math or science video (shared by @willstarbase, install: https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1)
+- [Contract Signer](https://grokbot.dev/marketplace/contract-signer/): Drafts business contracts from a few lines, flags risky clauses, routes for signature (shared by @cu30rry_, install: https://x.ai/bot/emH53moZpEP8rqAECJBAd)
+
+## News
+- [Everything you need to know about Grok Bot templates](https://grokbot.dev/news/grok-bot-templates-explained/): A Grok Bot template is a shareable blueprint for a Bot. Open one link and Grok Bot creates a new copy with the original role, skills, routines, and supported integrations. Your chats, logins, and secrets stay private.
+- [Free month of Grok Bot for Lenny's Newsletter subscribers](https://grokbot.dev/news/lennys-newsletter-free-month-grok-bot/): Lenny Rachitsky is partnering with SpaceXAI - the first deal of its kind - to give every Lenny's Newsletter annual subscriber a free month of Grok Bot (included in Cursor Pro+). Existing subscribers redeem via Lenny's Product Pass; new subscribers get the link in their welcome email.
+
+## Collections
+- [The Team You Didn't Hire](https://grokbot.dev/collections/team-you-didnt-hire/): Five bots doing the jobs a startup used to hire a whole team for.
+- [Award Travel](https://grokbot.dev/collections/award-travel/): Book the trip on points, for the deepest real value.
+- [One Video, a Week of Content](https://grokbot.dev/collections/content-machine/): Turn one recording into clips, shorts and posts everywhere.
+- [Fill the Pipeline](https://grokbot.dev/collections/fill-the-pipeline/): From a fresh lead list to the meeting booked.
+- [Founder OS](https://grokbot.dev/collections/founder-os/): Stand up the company, then run it from one desk.
+- [Get Found](https://grokbot.dev/collections/get-found/): Rank in Google — and get named in the AI answers.
+- [Household HQ](https://grokbot.dev/collections/household-hq/): Run the family: meals, school, home and the thoughtful stuff.
+- [Look After Yourself](https://grokbot.dev/collections/look-after-yourself/): The nudges and coaching to actually take care of you.
+- [Never Overpay Again](https://grokbot.dev/collections/never-overpay/): Shop smart, pick the right card, claw back what you're owed.
+- [Inbox Zero, For Real](https://grokbot.dev/collections/reclaim-your-inbox/): Empty the inbox — and keep it empty.
+- [Build a Second Brain](https://grokbot.dev/collections/second-brain/): Research that's sourced, filed, and findable months later.
+- [Ship While You Sleep](https://grokbot.dev/collections/ship-while-you-sleep/): Drop an idea at night, review the PR in the morning.
+- [New to Grok Bot? Start Here](https://grokbot.dev/collections/start-here/): Set up your first bots — and learn to build your own.
+- [X Account Management](https://grokbot.dev/collections/x-account-management/): Six shared Bots to run — and quietly read — your whole X account.
+- [Research You Can Trust](https://grokbot.dev/collections/research-you-can-trust/): Three research Bots that find the signal and show their receipts.
+- [Grok Ship + Firstmate](https://grokbot.dev/collections/grok-ship-firstmate/): Firstmate at the helm, Grok Ship as the software factory.
+
+## Optional
+- [Full content export](https://grokbot.dev/llms-full.txt)
+- [Contribute](https://grokbot.dev/contribute/)
+- [About](https://grokbot.dev/about/)

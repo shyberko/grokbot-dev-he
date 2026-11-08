@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-10-21T00:31:09.024Z",
+  "api_version": "v1",
+  "schema_revision": "2026-08-28",
+  "status_url": "https://grokbot.dev/api/v1/status.json",
+  "count": 11,
+  "site": {
+    "name": "grokbot.dev",
+    "base_url": "https://grokbot.dev/",
+    "description": "Open directory of ready-to-use Grok Bot prompts, plugins, collections, and news. Static JSON API, RSS feeds, MCP at mcp.grokbot.dev.",
+    "agent_contract_url": "https://grokbot.dev/agent/",
+    "submit_url": "https://grokbot.dev/submit/",
+    "repo_url": "https://github.com/ZeroPointRepo/GrokBotDev",
+    "mcp_url": "https://mcp.grokbot.dev/mcp",
+    "api_version": "v1",
+    "status_url": "https://grokbot.dev/api/v1/status.json",
+    "stability": "v1 is additive-only: new fields and endpoints may appear, but existing fields are never removed, renamed, or repurposed within v1. Consumers MUST ignore fields they do not recognize, and SHOULD follow a `next` cursor if a response includes one (that is how pagination will arrive). Any breaking change ships at /api/v2/ and is announced here as a deprecation with a sunset date at least 90 days out before v1 changes behavior."
+  },
+  "counts": {
+    "plugins": 60,
+    "use_cases": 138,
+    "collections": 16,
+    "news": 2,
+    "templates": 1904
+  },
+  "items": [
+    {
+      "name": "index",
+      "url": "https://grokbot.dev/api/v1/index.json",
+      "description": "Site meta, counts, endpoint directory",
+      "count": 11
+    },
+    {
+      "name": "status",
+      "url": "https://grokbot.dev/api/v1/status.json",
+      "description": "API self-description: version, capabilities, notices, deprecations, changelog. Poll this to learn if the API changed.",
+      "count": 0
+    },
+    {
+      "name": "feed",
+      "url": "https://grokbot.dev/api/v1/feed.json",
+      "description": "RECOMMENDED. Complete lean feed (plugins, use cases, collections, news and shareable-bot templates), newest first. News items carry type 'news'; templates carry type 'template' plus share_url and includes.",
+      "count": 2120
+    },
+    {
+      "name": "templates",
+      "url": "https://grokbot.dev/api/v1/templates.json",
+      "description": "Shareable Bots: Grok Bot templates people shared on X, each with its sharer, tags and share_url (the Add to Grok Bot link). Per-entry detail: /api/v1/templates/<slug>.json",
+      "count": 1904
+    },
+    {
+      "name": "news",
+      "url": "https://grokbot.dev/api/v1/news.json",
+      "description": "News list: releases, deals, announcements and updates. Per-item detail: /api/v1/news/<slug>.json",
+      "count": 2
+    },
+    {
+      "name": "latest",
+      "url": "https://grokbot.dev/api/v1/latest.json",
+      "description": "50 newest plugins, use cases and collections (full records)",
+      "count": 50
+    },
+    {
+      "name": "plugins",
+      "url": "https://grokbot.dev/api/v1/plugins.json",
+      "description": "All plugins (full records). Per-entry detail: /api/v1/plugins/<slug>.json",
+      "count": 60
+    },
+    {
+      "name": "use_cases",
+      "url": "https://grokbot.dev/api/v1/use-cases.json",
+      "description": "All use cases with full prompt text. Per-entry detail: /api/v1/use-cases/<slug>.json",
+      "count": 138
+    },
+    {
+      "name": "collections",
+      "url": "https://grokbot.dev/api/v1/collections.json",
+      "description": "All collections. Per-entry detail: /api/v1/collections/<slug>.json",
+      "count": 16
+    },
+    {
+      "name": "categories",
+      "url": "https://grokbot.dev/api/v1/categories.json",
+      "description": "Category tree with counts",
+      "count": 10
+    },
+    {
+      "name": "integrations",
+      "url": "https://grokbot.dev/api/v1/integrations.json",
+      "description": "Integration vocabulary with counts",
+      "count": 19
+    }
+  ]
+}
